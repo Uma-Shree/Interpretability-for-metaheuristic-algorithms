@@ -1,0 +1,36 @@
+[
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 3,
+                        "matching": {},
+                        "unmatching": {}
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {},
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 56.47407806838866,
+                    "mae": 5.7730143748298595,
+                    "r_sq": 0.055016537382028274,
+                    "evs": 0.056118352668935945
+                }
+            }
+        ]
+    }
+]

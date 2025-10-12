@@ -1,0 +1,36 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 4,
+                        "matching": {},
+                        "unmatching": {}
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {},
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 48.411972886231204,
+                    "mae": 5.091503295274745,
+                    "r_sq": 0.8081515264958252,
+                    "evs": 0.8081659859096592
+                }
+            }
+        ]
+    }
+]

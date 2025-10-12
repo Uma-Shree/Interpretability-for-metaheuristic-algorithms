@@ -1,0 +1,224 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 6,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "variance estimated_atomicity",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 5,
+                        "matching": {
+                            "own": 8,
+                            "matching": {},
+                            "unmatching": {
+                                "own": 8,
+                                "matching": {},
+                                "unmatching": {
+                                    "own": 7,
+                                    "matching": {},
+                                    "unmatching": {
+                                        "own": 23,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 12,
+                            "matching": {
+                                "own": 7,
+                                "matching": {
+                                    "own": 10,
+                                    "matching": {},
+                                    "unmatching": {
+                                        "own": 31,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 31,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 7,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {
+                                        "own": 31,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 13,
+                        "matching": {
+                            "own": 19,
+                            "matching": {
+                                "own": 4,
+                                "matching": {
+                                    "own": 20,
+                                    "matching": {},
+                                    "unmatching": {
+                                        "own": 10,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 14,
+                                    "matching": {
+                                        "own": 25,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 4,
+                                    "matching": {
+                                        "own": 11,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 5,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 10,
+                            "matching": {
+                                "own": 6,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {
+                                        "own": 10,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 8,
+                                    "matching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 4,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 4,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 4,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 26.82133724091373,
+                    "mae": 4.061681468251113,
+                    "r_sq": 0.11820954558089647,
+                    "evs": 0.11822993026700768
+                }
+            }
+        ]
+    }
+]

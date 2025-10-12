@@ -1,0 +1,48 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 0,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 0,
+                        "matching": {
+                            "own": 0,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 12.99788074568983,
+                    "mae": 2.8838565599869623,
+                    "r_sq": 0.1622710565550649,
+                    "evs": 0.16263751246004343
+                }
+            }
+        ]
+    }
+]

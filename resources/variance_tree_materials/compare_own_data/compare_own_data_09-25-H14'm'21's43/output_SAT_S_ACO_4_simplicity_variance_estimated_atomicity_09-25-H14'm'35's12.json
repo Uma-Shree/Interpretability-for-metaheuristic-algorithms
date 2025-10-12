@@ -1,0 +1,60 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 5,
+                    "matching": {
+                        "own": 13,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 0,
+                        "matching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {}
+                        },
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 2.5344444444444396,
+                    "mae": 1.4833333333333307,
+                    "r_sq": 0.5391919191919201,
+                    "evs": 0.7937878787878798
+                }
+            }
+        ]
+    }
+]

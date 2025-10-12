@@ -1,0 +1,268 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 6,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 0,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 0,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 5,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {
+                                        "own": 0,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {
+                                        "own": 1,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {
+                                        "own": 2,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    },
+                                    "unmatching": {
+                                        "own": 3,
+                                        "matching": {},
+                                        "unmatching": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 456.0980514902577,
+                    "mae": 16.814800379968116,
+                    "r_sq": -0.04793142436646525,
+                    "evs": -0.04653365683034649
+                }
+            }
+        ]
+    }
+]

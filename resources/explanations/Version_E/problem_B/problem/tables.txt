@@ -1,0 +1,66 @@
+WORKERS for problem A
+Ada		📞		🔨	ROTA 9	ROTA 10	ROTA 4
+Alba	⚡	📞		🔨	ROTA 24	ROTA 2	ROTA 17	ROTA 19
+Alfie			💻	🔨	ROTA 24
+Anna				🔨	ROTA 12	ROTA 2	ROTA 19
+Annie	⚡	📞	💻	🔨	ROTA 16
+Arabella			💻	🔨	ROTA 17
+Arthur		📞		🔨	ROTA 17
+Benjamin		📞			ROTA 28	ROTA 8	ROTA 11
+Blake		📞		🔨	ROTA 3	ROTA 2	ROTA 5
+Connor		📞		🔨	ROTA 21
+Dylan	⚡	📞	💻	🔨	ROTA 2	ROTA 19
+Eden		📞		🔨	ROTA 30	ROTA 31	ROTA 23	ROTA 1
+Ella		📞		🔨	ROTA 14
+Emily				🔨	ROTA 22	ROTA 17	ROTA 32	ROTA 31
+Emma		📞		🔨	ROTA 17	ROTA 7	ROTA 27
+Florence		📞	💻	🔨	ROTA 24
+Georgie		📞		🔨	ROTA 7
+Iona		📞			ROTA 12
+Isla	⚡	📞			ROTA 7	ROTA 9
+Jessica	⚡	📞		🔨	ROTA 5
+Joseph				🔨	ROTA 15	ROTA 1
+Lara		📞		🔨	ROTA 17	ROTA 9	ROTA 26
+Leo				🔨	ROTA 7	ROTA 9	ROTA 29	ROTA 20
+Louis				🔨	ROTA 10	ROTA 21	ROTA 31	ROTA 1
+Parker		📞	💻	🔨	ROTA 17	ROTA 9	ROTA 7
+Sadie		📞	💻	🔨	ROTA 17
+Samuel			💻		ROTA 25	ROTA 17
+Sofia	⚡	📞		🔨	ROTA 18	ROTA 13	ROTA 9	ROTA 32
+Struan				🔨	ROTA 6
+Theo				🔨	ROTA 12	ROTA 6	ROTA 17
+
+
+ROTAS for problem A
+ROTA 1	_	W	W	W	W	_	_	W	W	W	W	W	_	_	W	W	W	_	_	W	_
+ROTA 2	_	W	W	W	W	_	_
+ROTA 3	W	_	W	W	W	_	_
+ROTA 4	_	W	W	W	_	_	W	W	W	W	_	_	W	W	_	_	W	W	W	W	_
+ROTA 5	W	W	W	_	W	W	_
+ROTA 6	_	W	W	W	W	W	_
+ROTA 7	W	W	W	W	W	_	_	W	W	W	W	W	_	_	_	W	W	W	W	W	_
+ROTA 8	W	_	W	W	_	_	W	W	W	W	W	W	_	_
+ROTA 9	W	W	W	W	_	_	W	W	W	W	W	W	_	_	_	W	W	W	W	W	_
+ROTA 10	W	W	W	W	_	_	W	W	W	W	W	W	W	_	_	W	W	W	W	W	_
+ROTA 11	W	W	W	_	W	W	_	_	W	W	W	_	W	_
+ROTA 12	W	W	W	W	_	_	W
+ROTA 13	_	W	W	W	_	_	W	W	W	W	_	W	_	_	_	W	_	W	W	W	_
+ROTA 14	_	W	W	W	W	_	_	W	W	_	W	W	_	_	_	_	W	W	W	W	_
+ROTA 15	W	W	W	W	W	_	_	W	W	W	W	_	_	W	_	W	W	W	W	W	_
+ROTA 16	W	_	W	W	_	_	W
+ROTA 17	W	W	W	W	W	_	_
+ROTA 18	W	W	_	W	W	_	_	W	W	W	_	W	_	_	_	_	W	W	W	W	_
+ROTA 19	W	W	W	W	_	_	_
+ROTA 20	_	W	W	W	W	_	_	W	W	W	W	_	_	W	_	_	W	W	W	W	_
+ROTA 21	W	W	W	W	W	W	_	_	W	W	W	W	_	_	_	W	W	W	W	W	_
+ROTA 22	W	_	W	W	W	_	_	W	W	W	W	_	_	_	_	_	W	W	W	W	_
+ROTA 23	W	W	W	_	W	W	_	_	W	W	W	_	_	_	_	_	W	W	W	W	_
+ROTA 24	_	W	W	W	_	_	W
+ROTA 25	_	W	W	W	_	_	W	W	W	W	W	W	_	_
+ROTA 26	W	W	W	W	W	_	_	W	W	W	W	W	W	_	_	W	W	W	W	W	_
+ROTA 27	W	W	W	W	W	_	_	W	W	W	W	W	_	_	_	W	W	W	_	W	W
+ROTA 28	W	W	W	W	_	_	W	W	W	W	_	W	W	_
+ROTA 29	W	W	W	W	_	_	_	W	W	W	W	W	_	_	_	_	W	W	W	W	_
+ROTA 30	W	W	W	W	_	_	_	W	W	W	_	_	_	W	_	_	W	W	W	W	_
+ROTA 31	_	W	W	W	W	_	_	W	W	W	_	W	_	_	_	_	W	W	W	W	_
+ROTA 32	_	W	W	W	W	_	_	W	W	W	_	W	W	_	_	_	W	W	W	W	_

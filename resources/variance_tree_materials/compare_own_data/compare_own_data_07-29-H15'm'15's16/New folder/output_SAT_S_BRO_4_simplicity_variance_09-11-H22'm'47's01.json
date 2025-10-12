@@ -1,0 +1,40 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 0,
+                    "matching": {
+                        "own": 0,
+                        "matching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {}
+                        },
+                        "unmatching": {}
+                    },
+                    "unmatching": {}
+                },
+                "results": {
+                    "mse": 13.0186243371952,
+                    "mae": 2.869090296304993,
+                    "r_sq": -0.00011902070653402319,
+                    "evs": 0.0
+                }
+            }
+        ]
+    }
+]

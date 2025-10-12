@@ -1,0 +1,36 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {},
+                        "unmatching": {}
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {},
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 43.403028737551594,
+                    "mae": 5.251330649415067,
+                    "r_sq": 0.045715628677307274,
+                    "evs": 0.045802545245037685
+                }
+            }
+        ]
+    }
+]

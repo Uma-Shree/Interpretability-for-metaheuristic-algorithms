@@ -1,0 +1,40 @@
+[
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 0,
+                    "matching": {
+                        "own": 0,
+                        "matching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {}
+                        },
+                        "unmatching": {}
+                    },
+                    "unmatching": {}
+                },
+                "results": {
+                    "mse": 9032.68111548283,
+                    "mae": 80.80494549875864,
+                    "r_sq": -0.005769437525124044,
+                    "evs": 0.0
+                }
+            }
+        ]
+    }
+]

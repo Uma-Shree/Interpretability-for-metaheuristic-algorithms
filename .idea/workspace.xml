@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a05e8814-504e-4333-8593-ec6366f9f3e6" name="Changes" comment="New branch added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="LCS" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Giancarlo-Catalano&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="28d09c99-7cec-4ba5-a5be-329ae6ee5073" />
+        <option name="url" value="https://github.com/Giancarlo-Catalano/PS-descriptors.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mbRO2gQuodDtpwuXJVDXCKpRAJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BTProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Compare_prediction_powers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GraphColouring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IAIDecisionTree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QAP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SimplePSSearchTask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TabuSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare_prediction_powers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gather_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.process_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_IAI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Markdown-Groovy.md.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Markdown-Groovy.md.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;InterpretableDecisionTrees&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gac8/PycharmProjects/PS-descriptors-LCS/UserStudy/Instances/Constructed_A&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\UserStudy\Instances\Constructed_A" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\UserStudy\Instances\A" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\UserStudy\Instances\Constructed_B" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\VarianceDecisionTree\process_data" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\resources\explanations\messing_around" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\CollaborationMarch\SimplifiedSystem" />
+      <recent name="$PROJECT_DIR$/VarianceDecisionTree/process_data" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\RepresentationBasedSearch\ContinuousVariables" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\ThirdPaper" />
+      <recent name="C:\Users\gac8\PycharmProjects\PS-descriptors-LCS\resources\explanations\old_material" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05e8814-504e-4333-8593-ec6366f9f3e6" name="Changes" comment="" />
+      <created>1727343255102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727343255102</updated>
+      <workItem from="1727343256365" duration="11844000" />
+      <workItem from="1727425197920" duration="11446000" />
+      <workItem from="1727685228093" duration="10893000" />
+      <workItem from="1727769541669" duration="2185000" />
+      <workItem from="1727776264315" duration="16521000" />
+      <workItem from="1727857695560" duration="13276000" />
+      <workItem from="1727884112229" duration="1272000" />
+      <workItem from="1727944542904" duration="10184000" />
+      <workItem from="1728032384390" duration="8162000" />
+      <workItem from="1728291261349" duration="12928000" />
+      <workItem from="1728381898881" duration="11853000" />
+      <workItem from="1728462104786" duration="18117000" />
+      <workItem from="1728550853191" duration="12973000" />
+      <workItem from="1728634573512" duration="19565000" />
+      <workItem from="1728981095953" duration="24380000" />
+      <workItem from="1729153077471" duration="12667000" />
+      <workItem from="1729240521757" duration="7909000" />
+      <workItem from="1729511647572" duration="10877000" />
+      <workItem from="1729588036507" duration="13152000" />
+      <workItem from="1729672429542" duration="8887000" />
+      <workItem from="1729763667943" duration="1827000" />
+      <workItem from="1729846601252" duration="10493000" />
+      <workItem from="1730110146816" duration="10710000" />
+      <workItem from="1730193163392" duration="15101000" />
+      <workItem from="1730279753336" duration="6513000" />
+      <workItem from="1730366729421" duration="7031000" />
+      <workItem from="1730455766813" duration="11137000" />
+      <workItem from="1730713153453" duration="9359000" />
+      <workItem from="1730799128861" duration="10274000" />
+      <workItem from="1730886889941" duration="10336000" />
+      <workItem from="1730972122295" duration="1592000" />
+      <workItem from="1731076575871" duration="3195000" />
+      <workItem from="1731316840194" duration="5933000" />
+      <workItem from="1731423407432" duration="7368000" />
+      <workItem from="1731503194509" duration="3580000" />
+      <workItem from="1731576491212" duration="607000" />
+      <workItem from="1731596324308" duration="5597000" />
+      <workItem from="1731663029576" duration="9915000" />
+      <workItem from="1732550963932" duration="2790000" />
+      <workItem from="1732617527227" duration="10047000" />
+      <workItem from="1732785524834" duration="2404000" />
+      <workItem from="1732874237989" duration="13180000" />
+      <workItem from="1733143710960" duration="10158000" />
+      <workItem from="1733228013411" duration="13080000" />
+      <workItem from="1733320766050" duration="7351000" />
+      <workItem from="1733392859196" duration="7592000" />
+      <workItem from="1733482738532" duration="4497000" />
+      <workItem from="1733749577837" duration="2335000" />
+      <workItem from="1733913563815" duration="9872000" />
+      <workItem from="1733999437613" duration="7535000" />
+      <workItem from="1734088024874" duration="13936000" />
+      <workItem from="1734785503008" duration="6924000" />
+      <workItem from="1735040034906" duration="3441000" />
+      <workItem from="1735043529174" duration="19693000" />
+      <workItem from="1735555415695" duration="59803000" />
+      <workItem from="1736852260845" duration="8265000" />
+      <workItem from="1736934604612" duration="11491000" />
+      <workItem from="1737040665577" duration="6540000" />
+      <workItem from="1737367310642" duration="7983000" />
+      <workItem from="1737460145602" duration="2278000" />
+      <workItem from="1737986135671" duration="3168000" />
+      <workItem from="1737994187733" duration="6856000" />
+      <workItem from="1738058780620" duration="8141000" />
+      <workItem from="1738231932542" duration="26047000" />
+      <workItem from="1738579627935" duration="12954000" />
+      <workItem from="1738664423778" duration="6347000" />
+      <workItem from="1738749868119" duration="14489000" />
+      <workItem from="1738843402834" duration="5147000" />
+      <workItem from="1738924231593" duration="6594000" />
+      <workItem from="1739279511868" duration="3359000" />
+      <workItem from="1739355293455" duration="10552000" />
+      <workItem from="1739440360020" duration="11155000" />
+      <workItem from="1739524940341" duration="7299000" />
+      <workItem from="1739784681420" duration="605000" />
+      <workItem from="1739886198250" duration="656000" />
+      <workItem from="1739893574462" duration="765000" />
+      <workItem from="1740147675133" duration="21000" />
+      <workItem from="1740749354305" duration="1453000" />
+      <workItem from="1741008884679" duration="595000" />
+      <workItem from="1741095596646" duration="6952000" />
+      <workItem from="1741105235691" duration="34000" />
+      <workItem from="1741269088683" duration="288000" />
+      <workItem from="1741277880441" duration="107000" />
+      <workItem from="1741278233646" duration="1797000" />
+      <workItem from="1741342236117" duration="15222000" />
+      <workItem from="1741601413064" duration="12264000" />
+      <workItem from="1741618138938" duration="618000" />
+      <workItem from="1741863694208" duration="377000" />
+      <workItem from="1742465825058" duration="2814000" />
+      <workItem from="1742556964043" duration="7000" />
+      <workItem from="1742892921865" duration="1396000" />
+      <workItem from="1742898842879" duration="2650000" />
+      <workItem from="1742981877650" duration="1002000" />
+      <workItem from="1743071002857" duration="596000" />
+      <workItem from="1743072806282" duration="15000" />
+      <workItem from="1743586958861" duration="11614000" />
+      <workItem from="1743752218220" duration="7410000" />
+      <workItem from="1744626123422" duration="603000" />
+      <workItem from="1746106810032" duration="916000" />
+    </task>
+    <task id="LOCAL-00103" summary="Remove numba import so that it works on the condor cluster">
+      <option name="closed" value="true" />
+      <created>1735645331676</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1735645331676</updated>
+    </task>
+    <task id="LOCAL-00104" summary="I just want condor to work!!">
+      <option name="closed" value="true" />
+      <created>1735645415524</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1735645415524</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Removed another numba dependency...">
+      <option name="closed" value="true" />
+      <created>1735646517127</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1735646517127</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Removed pymoo.AGEMOA, which requires numba??">
+      <option name="closed" value="true" />
+      <created>1735646798790</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1735646798791</updated>
+    </task>
+    <task id="LOCAL-00107" summary="added results to .gitignore once and for all!">
+      <option name="closed" value="true" />
+      <created>1735646890386</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1735646890386</updated>
+    </task>
+    <task id="LOCAL-00108" summary="remove include to PermutationMethod from scipy.stats (condor doesn't like it?)">
+      <option name="closed" value="true" />
+      <created>1735647015715</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1735647015715</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Problem definitions directories are now written in an os independent way (os.path.join everywhere)">
+      <option name="closed" value="true" />
+      <created>1735647477219</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1735647477219</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Readded the results folder onto the repo, removed useless result files.">
+      <option name="closed" value="true" />
+      <created>1735647649142</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1735647649142</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Readding the problem definitions to the repo so that they are imported into the condor computers.">
+      <option name="closed" value="true" />
+      <created>1735647891130</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1735647891130</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Testing if getting the location of the script would help in accessing resources.">
+      <option name="closed" value="true" />
+      <created>1735769458055</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1735769458055</updated>
+    </task>
+    <task id="LOCAL-00113" summary="The problem definition files are now referenced using the location of the main script.">
+      <option name="closed" value="true" />
+      <created>1735770605652</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1735770605652</updated>
+    </task>
+    <task id="LOCAL-00114" summary="I forgot to remove a break statement, which prevented some datapoints from getting collected...">
+      <option name="closed" value="true" />
+      <created>1735817041127</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1735817041127</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Ready for another round of condor...">
+      <option name="closed" value="true" />
+      <created>1735817096096</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1735817096096</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Implemented tabu search, added a seed from the command line, added functionality to process tree data (orders by depth).">
+      <option name="closed" value="true" />
+      <created>1735912155800</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1735912155800</updated>
+    </task>
+    <task id="LOCAL-00117" summary="I discovered that the linkage thing was causing for the data to be SIGNIFICANTLY slower, so I had to scrap it...">
+      <option name="closed" value="true" />
+      <created>1735913513573</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1735913513573</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Made tabu search more efficient.">
+      <option name="closed" value="true" />
+      <created>1735914149628</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1735914149628</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Added the ability to print how much progress is being made on the run, by printing on the err stream.">
+      <option name="closed" value="true" />
+      <created>1735915259606</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1735915259606</updated>
+    </task>
+    <task id="LOCAL-00120" summary="The metrics for the search are now parametrised.">
+      <option name="closed" value="true" />
+      <created>1735918624301</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1735918624301</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Order of operations was changed slightly (train a tree, get output, next)">
+      <option name="closed" value="true" />
+      <created>1735919235502</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1735919235502</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Ready for condor">
+      <option name="closed" value="true" />
+      <created>1735919987776</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1735919987776</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Ready for another round of condor, gathering data for the naive trees with absolutely default settings.">
+      <option name="closed" value="true" />
+      <created>1736121306005</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1736121306006</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Made the code work for both windows and mac.">
+      <option name="closed" value="true" />
+      <created>1736173445714</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1736173445714</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Processing and displaying the data">
+      <option name="closed" value="true" />
+      <created>1736528354912</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1736528354912</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Code to make pretty latex tables was added">
+      <option name="closed" value="true" />
+      <created>1736777718728</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1736777718728</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Just a safety net submit.">
+      <option name="closed" value="true" />
+      <created>1736787948370</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1736787948370</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Implemented functionality to see what the splits for the les mis problem look like.">
+      <option name="closed" value="true" />
+      <created>1736958306892</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1736958306892</updated>
+    </task>
+    <task id="LOCAL-00129" summary="data for statistical tests added.">
+      <option name="closed" value="true" />
+      <created>1737048130797</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1737048130797</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Data crunching.">
+      <option name="closed" value="true" />
+      <created>1737397511864</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1737397511864</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Discovered a bug where the &quot;biggest&quot; ps returned was actually the smallest. Fuck.&#10;&#10;Bug has been fixed, now returning the &quot;elbow&quot;. Ready to run on condor again?">
+      <option name="closed" value="true" />
+      <created>1737995927923</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1737995927923</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Small mistake when uncommenting has been fixed.">
+      <option name="closed" value="true" />
+      <created>1737996022532</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1737996022532</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Rewriting some things to be a bit more clear. Still not finished.">
+      <option name="closed" value="true" />
+      <created>1738343145846</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1738343145846</updated>
+    </task>
+    <task id="LOCAL-00134" summary="System now stores the decision tree, ps properties, pRef.">
+      <option name="closed" value="true" />
+      <created>1738603305244</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1738603305244</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Fixing some issues with the simplified BT problem">
+      <option name="closed" value="true" />
+      <created>1738689464053</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1738689464053</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Made a script which generates the pRef, decision tree and descriptors for problem A. Then it produces the equivalent versions for problem B. Changed the format for how the decision trees were being stored to avoid bugs (other stats is now in its own dict in the json)">
+      <option name="closed" value="true" />
+      <created>1738757284806</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1738757284806</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Tree is now produced using AnyTree">
+      <option name="closed" value="true" />
+      <created>1738773582460</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1738773582460</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Implemented the constructed problem (to be completed)">
+      <option name="closed" value="true" />
+      <created>1738862766250</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862766250</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Submitting instance files before a new search is carried out.">
+      <option name="closed" value="true" />
+      <created>1739355507141</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1739355507141</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Fixing small issues, writing the tasks as json data.">
+      <option name="closed" value="true" />
+      <created>1739373754625</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1739373754625</updated>
+    </task>
+    <task id="LOCAL-00141" summary="tree is weird, rerunning">
+      <option name="closed" value="true" />
+      <created>1739374293476</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1739374293476</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Discovered that the seed for the decision tree was fixed, and so I kept getting the same result. This last tree seems pretty good!">
+      <option name="closed" value="true" />
+      <created>1739380556335</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1739380556336</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Found a bug in how the tree was getting generated, the not-matching branch was always the root node - the matching branch">
+      <option name="closed" value="true" />
+      <created>1739452358307</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1739452358308</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Instances and tasks are complete">
+      <option name="closed" value="true" />
+      <created>1739544883020</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1739544883020</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Questionnaire has been updated and now it's complete.">
+      <option name="closed" value="true" />
+      <created>1739552272257</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1739552272257</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Implemented the notebook to analyse the data.">
+      <option name="closed" value="true" />
+      <created>1741103853152</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1741103853153</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Cleaned up some code and put it in the SimplifiedSystem for the guests. Now it's time to try with their data!">
+      <option name="closed" value="true" />
+      <created>1741347680578</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1741347680578</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Made code to visualise the histograms, and exclude bad users.">
+      <option name="closed" value="true" />
+      <created>1743609375517</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609375517</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Table in accuracy_by_settings has been fixed, it used to also use the instances with bigger pRefs.">
+      <option name="closed" value="true" />
+      <created>1743772720331</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1743772720331</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Final submit before changing the branch name">
+      <option name="closed" value="true" />
+      <created>1743773163741</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1743773163741</updated>
+    </task>
+    <task id="LOCAL-00151" summary="New branch added">
+      <option name="closed" value="true" />
+      <created>1743773258391</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1743773258391</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/LCS" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just a safety net submit." />
+    <MESSAGE value="Implemented functionality to see what the splits for the les mis problem look like." />
+    <MESSAGE value="data for statistical tests added." />
+    <MESSAGE value="Data crunching." />
+    <MESSAGE value="Discovered a bug where the &quot;biggest&quot; ps returned was actually the smallest. Fuck.&#10;&#10;Bug has been fixed, now returning the &quot;elbow&quot;. Ready to run on condor again?" />
+    <MESSAGE value="Small mistake when uncommenting has been fixed." />
+    <MESSAGE value="Rewriting some things to be a bit more clear. Still not finished." />
+    <MESSAGE value="System now stores the decision tree, ps properties, pRef." />
+    <MESSAGE value="Fixing some issues with the simplified BT problem" />
+    <MESSAGE value="Made a script which generates the pRef, decision tree and descriptors for problem A. Then it produces the equivalent versions for problem B. Changed the format for how the decision trees were being stored to avoid bugs (other stats is now in its own dict in the json)" />
+    <MESSAGE value="Tree is now produced using AnyTree" />
+    <MESSAGE value="Implemented the constructed problem (to be completed)" />
+    <MESSAGE value="Submitting instance files before a new search is carried out." />
+    <MESSAGE value="Fixing small issues, writing the tasks as json data." />
+    <MESSAGE value="tree is weird, rerunning" />
+    <MESSAGE value="Discovered that the seed for the decision tree was fixed, and so I kept getting the same result. This last tree seems pretty good!" />
+    <MESSAGE value="Found a bug in how the tree was getting generated, the not-matching branch was always the root node - the matching branch" />
+    <MESSAGE value="Instances and tasks are complete" />
+    <MESSAGE value="Questionnaire has been updated and now it's complete." />
+    <MESSAGE value="Implemented the notebook to analyse the data." />
+    <MESSAGE value="Cleaned up some code and put it in the SimplifiedSystem for the guests. Now it's time to try with their data!" />
+    <MESSAGE value="Made code to visualise the histograms, and exclude bad users." />
+    <MESSAGE value="Table in accuracy_by_settings has been fixed, it used to also use the instances with bigger pRefs." />
+    <MESSAGE value="Final submit before changing the branch name" />
+    <MESSAGE value="New branch added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New branch added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LCS/DifferenceExplainer/DifferenceExplainer.py</url>
+          <line>493</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LCS/DifferenceExplainer/DifferenceExplainer.py</url>
+          <line>479</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LCS/DifferenceExplainer/DifferenceExplainer.py</url>
+          <line>470</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Core/PSMetric/Linkage/LocalPerturbation.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LCS/DifferenceExplainer/DifferenceExplainer.py</url>
+          <line>381</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PairExplanation/PairExplanationTester.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PairExplanation/BTProblemPrettyPrinter.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="rcount == 0" language="Python" />
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_methods.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PairExplanation/PairwiseExplanation.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/resources/generate_data_for_problem.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PairExplanation/BTProblemPrettyPrinter.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BenchmarkProblems/QAP.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BenchmarkProblems/GraphColouring.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MessingAround/testing_IAI.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/compare_prediction_powers.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/gather_data.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/process_data/process_data.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/compare_prediction_powers.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/process_data/process_data.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BenchmarkProblems/GraphColouring.py</url>
+          <line>322</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BenchmarkProblems/GraphColouring.py</url>
+          <line>386</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VarianceDecisionTree/SimplePSSearchTask.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BenchmarkProblems/SimplifiedBTProblem/SimplifiedBTProblem.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UserStudy/check_answers.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UserStudy/check_answers.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CollaborationMarch/SimplifiedSystem/ps_search_utils.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/gac8/PycharmProjects/PS-descriptors-LCS/VarianceDecisionTree/process_data/accuracy_by_settings.ipynb</url>
+          <line>234</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/gac8/PycharmProjects/PS-descriptors-LCS/CollaborationMarch/prettyfy_linkage.ipynb</url>
+          <line>38</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/gac8/PycharmProjects/PS-descriptors-LCS/UserStudy/parse_answers.ipynb</url>
+          <line>239</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <condition expression="opt_without_newlines != opt" language="Jupyter" />
+          <url>notebook://C:/Users/gac8/PycharmProjects/PS-descriptors-LCS/UserStudy/parse_answers.ipynb</url>
+          <line>263</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$PSRegressionTree.coverage" NAME="PSRegressionTree Coverage Results" MODIFIED="1738754999865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$GraphColouring.coverage" NAME="GraphColouring Coverage Results" MODIFIED="1737462116832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$TabuSearch.coverage" NAME="TabuSearch Coverage Results" MODIFIED="1735908503677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FSStochasticSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$Compare_prediction_powers.coverage" NAME="Compare_prediction_powers Coverage Results" MODIFIED="1735565236627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$SimplePSSearchTask.coverage" NAME="SimplePSSearchTask Coverage Results" MODIFIED="1732884926578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$utils.coverage" NAME="utils Coverage Results" MODIFIED="1734789342022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$testing_IAI.coverage" NAME="testing_IAI Coverage Results" MODIFIED="1735056962987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MessingAround" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$TSPPredicates.coverage" NAME="TSPPredicates Coverage Results" MODIFIED="1733232626802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RepresentationBasedSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$QAP.coverage" NAME="QAP Coverage Results" MODIFIED="1734367424493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$GraphColouring.coverage" NAME="GraphColouring Coverage Results" MODIFIED="1734787866922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$BTProblemPrettyPrinter.coverage" NAME="BTProblemPrettyPrinter Coverage Results" MODIFIED="1731322336537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairExplanation" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$TSP.coverage" NAME="TSP Coverage Results" MODIFIED="1731685829542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$variance_tree.coverage" NAME="variance_tree Coverage Results" MODIFIED="1733921416409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$testing_IAI.coverage" NAME="testing_IAI Coverage Results" MODIFIED="1736170528223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MessingAround" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$PairExplanationTester.coverage" NAME="PairExplanationTester Coverage Results" MODIFIED="1731598536958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairExplanation" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$main.coverage" NAME="main Coverage Results" MODIFIED="1737996133133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$compare_prediction_powers.coverage" NAME="compare_prediction_powers Coverage Results" MODIFIED="1738926417931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$show_off_problems.coverage" NAME="show_off_problems Coverage Results" MODIFIED="1732641094708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$generate_all_data.coverage" NAME="generate_all_data Coverage Results" MODIFIED="1730458114958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/explanations" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$PSDecisionTree.coverage" NAME="PSDecisionTree Coverage Results" MODIFIED="1738250438538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$SimplifiedBTProblem.coverage" NAME="SimplifiedBTProblem Coverage Results" MODIFIED="1738688773683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems/SimplifiedBTProblem" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$test_continuous_problem.coverage" NAME="test_continuous_problem Coverage Results" MODIFIED="1734016124645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RepresentationBasedSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$RepresentationLinkage.coverage" NAME="RepresentationLinkage Coverage Results" MODIFIED="1733234149399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RepresentationBasedSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$gather_data.coverage" NAME="gather_data Coverage Results" MODIFIED="1735580934921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$Mining.coverage" NAME="Mining Coverage Results" MODIFIED="1730738417293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PSMiners" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$utils.coverage" NAME="utils Coverage Results" MODIFIED="1730195736328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$generate_data_for_problem.coverage" NAME="generate_data_for_problem Coverage Results" MODIFIED="1731685130089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$BTProblem.coverage" NAME="BTProblem Coverage Results" MODIFIED="1734787454612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems/BT" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$tree_view.coverage" NAME="tree_view Coverage Results" MODIFIED="1738763450509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MessingAround" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$SignificantlyHighAverage.coverage" NAME="SignificantlyHighAverage Coverage Results" MODIFIED="1733921961378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core/PSMetric/FitnessQuality" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$manage_explanations.coverage" NAME="manage_explanations Coverage Results" MODIFIED="1730896903291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/explanations" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$WeightedGraphVisualiser.coverage" NAME="WeightedGraphVisualiser Coverage Results" MODIFIED="1730206638189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairExplanation" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1730206695810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairExplanation" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$EfficientBTProblem.coverage" NAME="EfficientBTProblem Coverage Results" MODIFIED="1730888916093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems/EfficientBTProblem" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$installing_IAI.coverage" NAME="installing_IAI Coverage Results" MODIFIED="1736160030993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MessingAround" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$test_representation_linkage.coverage" NAME="test_representation_linkage Coverage Results" MODIFIED="1733234360534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RepresentationBasedSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$PairwiseExplanation.coverage" NAME="PairwiseExplanation Coverage Results" MODIFIED="1730888593528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PairExplanation" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$SolutionDifferencePSSearch.coverage" NAME="SolutionDifferencePSSearch Coverage Results" MODIFIED="1731599938287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LCS/ConstrainedPSSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$test_variance_tree.coverage" NAME="test_variance_tree Coverage Results" MODIFIED="1732884886305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$BTProblem.coverage" NAME="BTProblem Coverage Results" MODIFIED="1730810801795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems/BT" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1736115564463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree/process_data" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$cached_explanations.coverage" NAME="cached_explanations Coverage Results" MODIFIED="1730387794178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$ContinuousVariableRepresentation.coverage" NAME="ContinuousVariableRepresentation Coverage Results" MODIFIED="1734015702902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RepresentationBasedSearch" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$compare_prediction_powers.coverage" NAME="compare_prediction_powers Coverage Results" MODIFIED="1735302342980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$PRef.coverage" NAME="PRef Coverage Results" MODIFIED="1733921522563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$IAIDecisionTree.coverage" NAME="IAIDecisionTree Coverage Results" MODIFIED="1735302189159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$SATProblem.coverage" NAME="SATProblem Coverage Results" MODIFIED="1738002735449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BenchmarkProblems" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$DiffExplanation.coverage" NAME="DiffExplanation Coverage Results" MODIFIED="1731685086513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$check_answers.coverage" NAME="check_answers Coverage Results" MODIFIED="1741269105413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UserStudy" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$main.coverage" NAME="main Coverage Results" MODIFIED="1736079891229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$problem_and_explanations_script.coverage" NAME="problem_and_explanations_script Coverage Results" MODIFIED="1739551622583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UserStudy" />
+    <SUITE FILE_PATH="coverage/PS_descriptors$SimplePSSearchTask.coverage" NAME="SimplePSSearchTask Coverage Results" MODIFIED="1735911947478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VarianceDecisionTree" />
+    <SUITE FILE_PATH="coverage/PS_descriptors_LCS$DescriptorsManager.coverage" NAME="DescriptorsManager Coverage Results" MODIFIED="1730738533278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LCS/DifferenceExplainer" />
+  </component>
+</project>

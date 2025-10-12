@@ -1,0 +1,36 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 2,
+                        "matching": {},
+                        "unmatching": {}
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {},
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 83.68248232315425,
+                    "mae": 7.369304538380926,
+                    "r_sq": 0.571659612754829,
+                    "evs": 0.5716971101366073
+                }
+            }
+        ]
+    }
+]

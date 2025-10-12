@@ -1,0 +1,60 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 0,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 4,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 0,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {}
+                            },
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {}
+                },
+                "results": {
+                    "mse": 29.63072462964923,
+                    "mae": 4.360079113252271,
+                    "r_sq": 0.032988271482288334,
+                    "evs": 0.03587051457924184
+                }
+            }
+        ]
+    }
+]

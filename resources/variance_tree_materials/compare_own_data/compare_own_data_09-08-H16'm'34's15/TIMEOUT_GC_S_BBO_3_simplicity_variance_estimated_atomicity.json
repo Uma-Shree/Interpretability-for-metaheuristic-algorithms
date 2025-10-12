@@ -1,0 +1,23 @@
+{
+    "error": "Operation timed out after 600 seconds",
+    "max_timeout": 600,
+    "runtime": 600.2474119663239,
+    "combination": {
+        "problem": "GC_S",
+        "algorithm": "BBO",
+        "depth": 3,
+        "metrics": "simplicity variance estimated_atomicity"
+    },
+    "tree_settings": [
+        {
+            "kind": "ps",
+            "ps_budget": 5000,
+            "ps_population": 100,
+            "depths": [
+                3
+            ],
+            "avoid_ancestors": false,
+            "metrics": "simplicity variance estimated_atomicity"
+        }
+    ]
+}

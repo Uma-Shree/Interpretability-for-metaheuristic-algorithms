@@ -1,0 +1,139 @@
+
+{
+    "task_1": [
+        [
+            {
+                "person": "Isaac",
+                "rota": "B"
+            },
+            {
+                "person": "Olivia",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Isaac",
+                "rota": "B"
+            }
+        ],
+        [
+            {
+                "person": "Adam",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Adam",
+                "rota": "A"
+            },
+            {
+                "person": "Isaac",
+                "rota": "B"
+            }
+        ]
+    ],
+    "task_2": [
+        [
+            {
+                "person": "Peter",
+                "rota": "B"
+            },
+            {
+                "person": "Felix",
+                "rota": "B"
+            }
+        ],
+        [
+            {
+                "person": "Peter",
+                "rota": "B"
+            },
+            {
+                "person": "Adam",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Peter",
+                "rota": "B"
+            },
+            {
+                "person": "Isaac",
+                "rota": "B"
+            }
+        ],
+        [
+            {
+                "person": "Peter",
+                "rota": "B"
+            },
+            {
+                "person": "Olivia",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Felix",
+                "rota": "B"
+            },
+            {
+                "person": "Adam",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Felix",
+                "rota": "B"
+            },
+            {
+                "person": "Isaac",
+                "rota": "B"
+            }
+        ],
+        [
+            {
+                "person": "Felix",
+                "rota": "B"
+            },
+            {
+                "person": "Olivia",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Adam",
+                "rota": "A"
+            },
+            {
+                "person": "Isaac",
+                "rota": "B"
+            }
+        ],
+        [
+            {
+                "person": "Adam",
+                "rota": "A"
+            },
+            {
+                "person": "Olivia",
+                "rota": "A"
+            }
+        ],
+        [
+            {
+                "person": "Isaac",
+                "rota": "B"
+            },
+            {
+                "person": "Olivia",
+                "rota": "A"
+            }
+        ]
+    ]
+}

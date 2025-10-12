@@ -1,0 +1,20 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "depths": [
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "error": "'OriginalPSO' object has no attribute 'population'"
+    }
+]

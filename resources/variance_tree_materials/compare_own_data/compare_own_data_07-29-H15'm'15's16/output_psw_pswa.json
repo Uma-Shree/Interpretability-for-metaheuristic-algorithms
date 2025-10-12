@@ -1,0 +1,2162 @@
+[
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "BT",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "GC_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_S",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_M",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "GA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "Tabu",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "SA",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 3,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 4,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  },
+  {
+    "problem_name": "SAT_L",
+    "tree_settings_list": [
+      {
+        "metrics": "variance estimated_atomicity",
+        "depth": 5,
+        "kind": "ps",
+        "ps_budget": 50,
+        "ps_population": 100
+      }
+    ],
+    "sample_size": 10000,
+    "pRef_method": "uniform",
+    "error": "'depths'"
+  }
+]

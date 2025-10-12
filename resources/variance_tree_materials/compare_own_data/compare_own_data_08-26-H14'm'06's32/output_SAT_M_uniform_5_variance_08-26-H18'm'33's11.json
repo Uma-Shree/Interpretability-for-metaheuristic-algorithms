@@ -1,0 +1,20 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "depths": [
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "variance"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "'numpy.float64' object is not iterable"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "error": "Operation timed out after 600 seconds",
+    "max_timeout": 600,
+    "runtime": 600.0906205177307,
+    "combination": {
+        "problem": "SAT_L",
+        "algorithm": "HHO",
+        "depth": 3,
+        "metrics": "simplicity variance"
+    },
+    "tree_settings": [
+        {
+            "kind": "ps",
+            "ps_budget": 5000,
+            "ps_population": 100,
+            "depths": [
+                3
+            ],
+            "avoid_ancestors": false,
+            "metrics": "simplicity variance"
+        }
+    ]
+}

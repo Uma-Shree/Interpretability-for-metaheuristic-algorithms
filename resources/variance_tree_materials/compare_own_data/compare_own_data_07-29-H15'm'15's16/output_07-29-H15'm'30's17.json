@@ -1,0 +1,1823 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_M",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 85.02103798126174,
+                    "mae": 6.654575205596431,
+                    "r_sq": 0.6097936172291185,
+                    "evs": 0.6100311639651673
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 63.090147505148295,
+                    "mae": 5.086762192850813,
+                    "r_sq": 0.7104460398155688,
+                    "evs": 0.7104642403621347
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 47.99028543265248,
+                    "mae": 4.502207368103435,
+                    "r_sq": 0.7797472704232968,
+                    "evs": 0.779748993920809
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 42.9974847788036,
+                    "mae": 4.205752555846031,
+                    "r_sq": 0.8026618657904322,
+                    "evs": 0.8026945788354184
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 108.51793203847608,
+                    "mae": 7.124071638159825,
+                    "r_sq": 0.5019539783101375,
+                    "evs": 0.5026446577536197
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 64.9575893914356,
+                    "mae": 5.435989678119461,
+                    "r_sq": 0.7018753641241758,
+                    "evs": 0.7019083993537544
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 52.31568326805261,
+                    "mae": 4.808722314086417,
+                    "r_sq": 0.7598957385733979,
+                    "evs": 0.760018342561037
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 46.91174460232412,
+                    "mae": 4.344490583894595,
+                    "r_sq": 0.7846972631082354,
+                    "evs": 0.7850872207976591
+                }
+            }
+        ]
+    },
+    {
+        "problem_name": "SAT_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "SAT_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 448.41980816855437,
+                    "mae": 16.534393005059307,
+                    "r_sq": -0.0075944484954511005,
+                    "evs": -0.006947209835685975
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 449.1298217918759,
+                    "mae": 16.53645522611083,
+                    "r_sq": -0.009189841411158195,
+                    "evs": -0.008496015993830097
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 450.1869593450405,
+                    "mae": 16.572621971101515,
+                    "r_sq": -0.011565218034718105,
+                    "evs": -0.01087486825665529
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 4,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 454.4199476284789,
+                    "mae": 16.66552514401313,
+                    "r_sq": -0.02107669682589486,
+                    "evs": -0.02022203151605617
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 446.6613569990159,
+                    "mae": 16.508202114736722,
+                    "r_sq": -0.0036432277774953725,
+                    "evs": -0.0030096749513286447
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 446.74026815063144,
+                    "mae": 16.507561716016404,
+                    "r_sq": -0.0038205402798510146,
+                    "evs": -0.003185276695031103
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 449.2101080650558,
+                    "mae": 16.562382201112626,
+                    "r_sq": -0.009370243796763988,
+                    "evs": -0.008760755775755635
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 450.2614141570757,
+                    "mae": 16.557476834729254,
+                    "r_sq": -0.011732517190339298,
+                    "evs": -0.011039119425745092
+                }
+            }
+        ]
+    },
+    {
+        "problem_name": "GC_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_S",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "GC_L",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "GA",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 121.25984577013053,
+                    "mae": 7.96149355538128,
+                    "r_sq": 0.5967317225908058,
+                    "evs": 0.5967765888296819
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 89.38366015946904,
+                    "mae": 6.813248590307963,
+                    "r_sq": 0.7027408831661497,
+                    "evs": 0.7031844729287694
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "results": {
+                    "mse": 63.09404084545966,
+                    "mae": 5.637462195263462,
+                    "r_sq": 0.7901710578226602,
+                    "evs": 0.7906218047796162
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 5,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 53.28883981044386,
+                    "mae": 5.202979476015784,
+                    "r_sq": 0.8227797627565047,
+                    "evs": 0.8230523552986081
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 2,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 126.05132818161925,
+                    "mae": 8.12409320282821,
+                    "r_sq": 0.5807969104850701,
+                    "evs": 0.5808202184064775
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 97.97958285343165,
+                    "mae": 7.143513215287126,
+                    "r_sq": 0.6741538194475614,
+                    "evs": 0.6742910297477642
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "results": {
+                    "mse": 81.81768298681182,
+                    "mae": 6.195948442377388,
+                    "r_sq": 0.7279027045585229,
+                    "evs": 0.7280021352078391
+                }
+            },
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 50,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 70.89721454139733,
+                    "mae": 5.78828796921318,
+                    "r_sq": 0.7642204028906823,
+                    "evs": 0.764261262281039
+                }
+            }
+        ]
+    },
+    {
+        "problem_name": "BT",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "uniform",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "BT",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "SA",
+        "error": "attempt to get argmax of an empty sequence"
+    },
+    {
+        "problem_name": "BT",
+        "tree_settings_list": [
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance"
+            },
+            {
+                "kind": "ps",
+                "ps_budget": 50,
+                "ps_population": 100,
+                "depths": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity"
+            }
+        ],
+        "sample_size": 10000,
+        "pRef_method": "Tabu",
+        "error": "attempt to get argmax of an empty sequence"
+    }
+]
