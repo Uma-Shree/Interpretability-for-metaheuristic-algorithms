@@ -8,7 +8,7 @@ import os
 import random
 import sys
 import warnings
-
+import time
 import utils
 from config import get_compare_own_data_folder
 from VarianceDecisionTree.compare_prediction_powers import get_datapoint_for_instance, get_problems_with_names
@@ -81,6 +81,7 @@ def generate_naive_trees_only():
                     warnings.warn(f"[{progress_pct:.1f}%] Processing: {problem_name} + {pRef_method}")
                 
                 try:
+                    '''
                     datapoint = get_datapoint_for_instance(
                         problem_name=problem_name,
                         problem=problem,
@@ -90,6 +91,37 @@ def generate_naive_trees_only():
                         crash_on_error=debug,
                         seed=seed
                     )
+                    '''
+
+                    start_time = time.time()
+    
+                    datapoint = get_datapoint_for_instance(
+                        problem_name=problem_name,
+                        problem=problem,
+                        tree_settings_list=tree_dicts,
+                        sample_size=sample_size,
+                        pRef_method=pRef_method,
+                        crash_on_error=debug,
+                        seed=seed
+                    )
+    
+                    total_runtime = round(time.time() - start_time, 3)
+    
+                    # ✅ Add runtime information
+                    if isinstance(datapoint, dict):
+                        datapoint["runtime_seconds_total"] = total_runtime
+                        datapoint["problem"] = problem_name
+                        datapoint["algorithm"] = pRef_method
+        
+                        # Add runtime per depth inside results_by_tree
+                        if "results_by_tree" in datapoint and isinstance(datapoint["results_by_tree"], list):
+                            num_trees = len(datapoint["results_by_tree"])
+                            per_depth_runtime = round(total_runtime / num_trees, 3) if num_trees > 0 else total_runtime
+            
+                            for tree_result in datapoint["results_by_tree"]:
+                                if isinstance(tree_result, dict):
+                                    tree_result["runtime_seconds"] = per_depth_runtime
+
                     results.append(datapoint)
                     
                     # Success message

@@ -9,6 +9,7 @@ import os
 import warnings
 import sys
 import random
+import time
 
 import utils
 from config import get_iai_run_folder
@@ -82,6 +83,9 @@ def gather_data_compare_iai():
                         warnings.warn(f"[{progress:.1f}%] Processing: {problem_name} + {pRef_method} (size={sample_size})")
                     
                     try:
+                        """
+                        start_time = time.time()
+
                         datapoint = get_datapoint_for_instance(
                             problem_name=problem_name,
                             problem=problem,
@@ -91,7 +95,59 @@ def gather_data_compare_iai():
                             crash_on_error=debug,
                             seed=seed
                         )
+                        runtime = round(time.time() - start_time, 3)
+
+                        if isinstance(datapoint, dict):
+                            datapoint["runtime_seconds"] = runtime
+                            datapoint["problem"] = problem_name
+                            datapoint["algorithm"] = pRef_method
+
                         results.append(datapoint)
+
+                        """
+
+                        start_time = time.time()
+
+                        datapoint = get_datapoint_for_instance(
+                            problem_name=problem_name,
+                            problem=problem,
+                            tree_settings_list=tree_dicts,
+                            sample_size=sample_size,
+                            pRef_method=pRef_method,
+                            crash_on_error=debug,
+                            seed=seed
+                        )
+
+                        runtime = round(time.time() - start_time, 3)
+
+                        # ✅ Attach runtime at both the top level and inside each depth result
+                        if isinstance(datapoint, dict):
+                            datapoint["runtime_seconds_total"] = runtime
+                            datapoint["problem"] = problem_name
+                            datapoint["algorithm"] = pRef_method
+
+                            if "results_by_tree" in datapoint and isinstance(datapoint["results_by_tree"], list):
+                                for tree_result in datapoint["results_by_tree"]:
+                                    try:
+                                        if isinstance(tree_result, dict):
+                                            tree_result["runtime_seconds"] = runtime / len(datapoint["results_by_tree"])
+                                    except Exception:
+                                        pass
+
+                                    
+                        else:
+                            datapoint = {
+                                        "data": datapoint,
+                                        "runtime_seconds_total": runtime,
+                                        "problem": problem_name,
+                                        "algorithm": pRef_method
+                            }
+
+                            
+                                    
+                        results.append(datapoint)
+                        print(f"   ✅ Success: {problem_name} + {pRef_method} | Total Runtime: {runtime}s")
+
                         
                         if print_progress:
                             print(f"   Success: {problem_name} + {pRef_method}")
@@ -177,6 +233,7 @@ def gather_data_compare_iai_single_algorithm(algorithm_name: str):
             for sample_size in sample_sizes:
                 print(f"Processing: {problem_name} with {algorithm_name} (size={sample_size})")
                 try:
+                    '''
                     datapoint = get_datapoint_for_instance(
                         problem_name=problem_name,
                         problem=problem,
@@ -186,7 +243,42 @@ def gather_data_compare_iai_single_algorithm(algorithm_name: str):
                         crash_on_error=True,  # Crash on error for debugging
                         seed=seed
                     )
+                    '''
+
+                    start_time = time.time()
+
+                    datapoint = get_datapoint_for_instance(
+                        problem_name=problem_name,
+                        problem=problem,
+                        tree_settings_list=tree_dicts,
+                        sample_size=sample_size,
+                        pRef_method=algorithm_name,
+                        crash_on_error=True,
+                        seed=seed
+                    )
+
+                    total_runtime = round(time.time() - start_time, 3)
+
+                    # Add total and per-depth runtime
+                    if isinstance(datapoint, dict):
+                        datapoint["runtime_seconds_total"] = total_runtime
+                        datapoint["problem"] = problem_name
+                        datapoint["algorithm"] = algorithm_name
+                        if "results_by_tree" in datapoint:
+                            num_trees = len(datapoint["results_by_tree"])
+                            per_depth_runtime = round(total_runtime / num_trees, 3) if num_trees > 0 else total_runtime
+                            for tree_result in datapoint["results_by_tree"]:
+                                if isinstance(tree_result, dict):
+                                    tree_result["runtime_seconds"] = per_depth_runtime
+                    else:
+                        datapoint = {
+                            "data": datapoint,
+                            "runtime_seconds_total": total_runtime,
+                            "problem": problem_name,
+                            "algorithm": algorithm_name
+                        }
                     results.append(datapoint)
+                   
                     print(f"✅ Success: {problem_name}")
                 except Exception as e:
                     print(f"❌ Error with {problem_name}: {e}")

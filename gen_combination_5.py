@@ -178,7 +178,25 @@ def generate_all_ps_combinations():
                         
                         # Calculate runtime
                         runtime = time.time() - start_time
-                        
+                        runtime = round(runtime, 3)
+
+                        # ✅ Add runtime info directly inside JSON output
+                        if isinstance(datapoint, dict):
+                            datapoint["runtime_seconds"] = runtime
+                            datapoint["problem"] = problem_name
+                            datapoint["algorithm"] = algorithm
+                            datapoint["depth"] = depth
+                            datapoint["metrics_used"] = metrics
+                        else:
+                            datapoint = {
+                                "data": datapoint,
+                                "runtime_seconds": runtime,
+                                "problem": problem_name,
+                                "algorithm": algorithm,
+                                "depth": depth,
+                                "metrics_used": metrics
+                            }
+
                         # Save result immediately
                         safe_metrics = metrics.replace(" ", "_")
                         timestamp = utils.get_formatted_timestamp()

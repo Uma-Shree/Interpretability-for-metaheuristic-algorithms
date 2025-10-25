@@ -126,7 +126,7 @@ def pRef_from_PSO(benchmark_problem, sample_size: int, max_trace: int) -> PRef:
         pop_size=pop_size,
         c1=2.0,
         c2=2.0,
-        w=0.7
+        w=0.4
     )
     
 
@@ -400,7 +400,7 @@ def pRef_from_BBO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
 
     pop_size = 50
     
-    print(f"   BBO parameters: pop_size={pop_size}")
+    print(f"BBO parameters: pop_size={pop_size}")
     
     model = MEALPY_BBO.OriginalBBO(
         epoch=get_problem_specific_epochs(benchmark_problem, max_trace, pop_size),
@@ -677,11 +677,7 @@ def pRef_from_BRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         print("    No list_population in history, using other history data")
 
     solutions = solutions[:max_trace]
-    """
-    if len(solutions) > sample_size:
-        solutions.sort(key=lambda x: x.fitness, reverse=True)
-        solutions = solutions[:sample_size]
-    """
+
     print(f"__Generated {len(solutions)} solutions from MEALPY BRO history")
     
     return PRef.from_evaluated_full_solutions(solutions, benchmark_problem.search_space)
@@ -783,17 +779,6 @@ def pRef_from_BRO(benchmark_problem: BenchmarkProblem,
         solutions.extend(algorithm.get_one_with_attempts(max_trace=max_trace))
     solutions = solutions[:sample_size]
     return PRef.from_evaluated_full_solutions(solutions, benchmark_problem.search_space)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
