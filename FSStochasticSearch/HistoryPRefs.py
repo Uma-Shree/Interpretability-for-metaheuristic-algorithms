@@ -130,8 +130,8 @@ def pRef_from_PSO(benchmark_problem, sample_size: int, max_trace: int) -> PRef:
     )
     
 
-    model.solve(problem_dict, mode='single')
-    
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='swarm')
 
     solutions = []
     
@@ -409,7 +409,8 @@ def pRef_from_BBO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         n_elites=2
     )
     
-    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -463,6 +464,7 @@ def pRef_from_CRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
     
     # Fitness function wrapper
     def fitness_func(solution):
+        print(solution)
         discrete_solution = np.array(solution, dtype=int)
         full_solution = FullSolution(discrete_solution)
         return float(benchmark_problem.fitness_function(full_solution))
@@ -493,7 +495,8 @@ def pRef_from_CRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         n_trials=5
     )
     
-    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -571,7 +574,8 @@ def pRef_from_ACO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         zeta=1.0
     )
     
-    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -648,7 +652,8 @@ def pRef_from_BRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         max_diff=0.1
     )
     
-    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='swarm')
     
     solutions = []
     

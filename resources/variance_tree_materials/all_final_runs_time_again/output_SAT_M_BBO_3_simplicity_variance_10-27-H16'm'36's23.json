@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 4,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 13.922142465486337,
+                    "mae": 2.7555223425343134,
+                    "r_sq": 0.6850425637721562,
+                    "evs": 0.6942302863741909
+                }
+            }
+        ],
+        "runtime_seconds": 69.365,
+        "problem": "SAT_M",
+        "algorithm": "BBO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

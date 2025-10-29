@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 4,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 10637.147799423727,
+                    "mae": 80.00447120340844,
+                    "r_sq": 0.5582374525786036,
+                    "evs": 0.5582436673798866
+                }
+            }
+        ],
+        "runtime_seconds": 86.409,
+        "problem": "GC_S",
+        "algorithm": "BRO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

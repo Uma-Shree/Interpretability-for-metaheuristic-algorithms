@@ -1,0 +1,89 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 5,
+                    "matching": {
+                        "own": 15,
+                        "matching": {
+                            "own": 20,
+                            "matching": {
+                                "own": 7,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 6,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 29,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 4,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 83.43754344234158,
+                    "mae": 5.98623963034004,
+                    "r_sq": 0.916107783328348,
+                    "evs": 0.9166674726423689
+                }
+            }
+        ],
+        "runtime_seconds": 153.189,
+        "problem": "GC_S",
+        "algorithm": "CRO",
+        "depth": 4,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

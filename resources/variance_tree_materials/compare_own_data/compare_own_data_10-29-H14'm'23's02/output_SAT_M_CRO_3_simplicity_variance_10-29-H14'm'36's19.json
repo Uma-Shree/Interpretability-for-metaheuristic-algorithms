@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 4,
+                        "matching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 10.110601538005184,
+                    "mae": 2.249267067530827,
+                    "r_sq": 0.7976247634039317,
+                    "evs": 0.8002499264297571
+                }
+            }
+        ],
+        "runtime_seconds": 63.394,
+        "problem": "SAT_M",
+        "algorithm": "CRO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

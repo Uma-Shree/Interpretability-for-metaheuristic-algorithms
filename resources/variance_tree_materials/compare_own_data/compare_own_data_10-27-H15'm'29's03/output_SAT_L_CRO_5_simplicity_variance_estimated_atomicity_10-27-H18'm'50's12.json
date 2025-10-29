@@ -1,0 +1,149 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 4,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 12,
+                            "matching": {
+                                "own": 14,
+                                "matching": {
+                                    "own": 18,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 15,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 7,
+                                "matching": {
+                                    "own": 16,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 8,
+                            "matching": {
+                                "own": 10,
+                                "matching": {
+                                    "own": 7,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 21,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 6,
+                                "matching": {
+                                    "own": 13,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 15,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 4,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 25.796148959919886,
+                    "mae": 3.253048477335717,
+                    "r_sq": 0.8327761512437749,
+                    "evs": 0.8327816746034233
+                }
+            }
+        ],
+        "runtime_seconds": 238.44,
+        "problem": "SAT_L",
+        "algorithm": "CRO",
+        "depth": 5,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

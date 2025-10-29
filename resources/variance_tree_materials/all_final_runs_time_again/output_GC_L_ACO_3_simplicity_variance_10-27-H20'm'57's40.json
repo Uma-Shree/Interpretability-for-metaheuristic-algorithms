@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 143.78285169450737,
+                    "mae": 9.022998213462147,
+                    "r_sq": 0.3146901955602709,
+                    "evs": 0.3270509479796555
+                }
+            }
+        ],
+        "runtime_seconds": 103.425,
+        "problem": "GC_L",
+        "algorithm": "ACO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

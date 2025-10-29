@@ -1,0 +1,89 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 10,
+                            "matching": {
+                                "own": 21,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 10,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 5,
+                        "matching": {
+                            "own": 17,
+                            "matching": {
+                                "own": 8,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 7,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 5,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 24.744709243947018,
+                    "mae": 3.3841426384303035,
+                    "r_sq": 0.8743450261907989,
+                    "evs": 0.8743629258873834
+                }
+            }
+        ],
+        "runtime_seconds": 180.201,
+        "problem": "SAT_L",
+        "algorithm": "CRO",
+        "depth": 4,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

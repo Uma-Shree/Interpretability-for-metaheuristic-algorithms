@@ -1,0 +1,3083 @@
+problem,pRef_method,ps_budget,ps_population,metrics,depth,order
+BT,ACO,5000,100,simplicity variance,0,2
+BT,ACO,5000,100,simplicity variance,1,2
+BT,ACO,5000,100,simplicity variance,1,1
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,1
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,8
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,ACO,5000,100,simplicity variance,0,2
+BT,ACO,5000,100,simplicity variance,1,3
+BT,ACO,5000,100,simplicity variance,1,2
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,3,3
+BT,ACO,5000,100,simplicity variance,3,4
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,16
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,10
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance,0,3
+BT,ACO,5000,100,simplicity variance,1,3
+BT,ACO,5000,100,simplicity variance,1,3
+BT,ACO,5000,100,simplicity variance,2,3
+BT,ACO,5000,100,simplicity variance,2,2
+BT,ACO,5000,100,simplicity variance,2,1
+BT,ACO,5000,100,simplicity variance,2,1
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,2
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,3,1
+BT,ACO,5000,100,simplicity variance,4,3
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,2
+BT,ACO,5000,100,simplicity variance,4,0
+BT,ACO,5000,100,simplicity variance,4,2
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,2
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,2
+BT,ACO,5000,100,simplicity variance,4,1
+BT,ACO,5000,100,simplicity variance,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,0,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,15
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,14
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,7
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance,0,3
+BT,BBO,5000,100,simplicity variance,1,2
+BT,BBO,5000,100,simplicity variance,1,1
+BT,BBO,5000,100,simplicity variance,2,1
+BT,BBO,5000,100,simplicity variance,2,3
+BT,BBO,5000,100,simplicity variance,2,2
+BT,BBO,5000,100,simplicity variance,2,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,26
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,BBO,5000,100,simplicity variance,0,4
+BT,BBO,5000,100,simplicity variance,1,1
+BT,BBO,5000,100,simplicity variance,1,3
+BT,BBO,5000,100,simplicity variance,2,2
+BT,BBO,5000,100,simplicity variance,2,1
+BT,BBO,5000,100,simplicity variance,2,3
+BT,BBO,5000,100,simplicity variance,2,3
+BT,BBO,5000,100,simplicity variance,3,1
+BT,BBO,5000,100,simplicity variance,3,1
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,3
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,1
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,14
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,4
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance,0,3
+BT,BBO,5000,100,simplicity variance,1,2
+BT,BBO,5000,100,simplicity variance,1,4
+BT,BBO,5000,100,simplicity variance,2,5
+BT,BBO,5000,100,simplicity variance,2,3
+BT,BBO,5000,100,simplicity variance,2,4
+BT,BBO,5000,100,simplicity variance,2,2
+BT,BBO,5000,100,simplicity variance,3,1
+BT,BBO,5000,100,simplicity variance,3,0
+BT,BBO,5000,100,simplicity variance,3,3
+BT,BBO,5000,100,simplicity variance,3,3
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,3,2
+BT,BBO,5000,100,simplicity variance,4,0
+BT,BBO,5000,100,simplicity variance,4,2
+BT,BBO,5000,100,simplicity variance,4,0
+BT,BBO,5000,100,simplicity variance,4,2
+BT,BBO,5000,100,simplicity variance,4,3
+BT,BBO,5000,100,simplicity variance,4,2
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,3
+BT,BBO,5000,100,simplicity variance,4,1
+BT,BBO,5000,100,simplicity variance,4,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,15
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,19
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,28
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,31
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,14
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,16
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,17
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,8
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance,0,1
+BT,BRO,5000,100,simplicity variance,1,3
+BT,BRO,5000,100,simplicity variance,1,2
+BT,BRO,5000,100,simplicity variance,2,2
+BT,BRO,5000,100,simplicity variance,2,1
+BT,BRO,5000,100,simplicity variance,2,1
+BT,BRO,5000,100,simplicity variance,2,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,0,6
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,5
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,BRO,5000,100,simplicity variance,0,1
+BT,BRO,5000,100,simplicity variance,1,1
+BT,BRO,5000,100,simplicity variance,1,1
+BT,BRO,5000,100,simplicity variance,2,1
+BT,BRO,5000,100,simplicity variance,2,3
+BT,BRO,5000,100,simplicity variance,2,2
+BT,BRO,5000,100,simplicity variance,2,2
+BT,BRO,5000,100,simplicity variance,3,3
+BT,BRO,5000,100,simplicity variance,3,2
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,2
+BT,BRO,5000,100,simplicity variance,3,2
+BT,BRO,5000,100,simplicity variance,3,0
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,0,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,7
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,7
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+BT,BRO,5000,100,simplicity variance,0,4
+BT,BRO,5000,100,simplicity variance,1,2
+BT,BRO,5000,100,simplicity variance,1,1
+BT,BRO,5000,100,simplicity variance,2,2
+BT,BRO,5000,100,simplicity variance,2,3
+BT,BRO,5000,100,simplicity variance,2,2
+BT,BRO,5000,100,simplicity variance,2,3
+BT,BRO,5000,100,simplicity variance,3,2
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,3
+BT,BRO,5000,100,simplicity variance,3,2
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,3,1
+BT,BRO,5000,100,simplicity variance,4,3
+BT,BRO,5000,100,simplicity variance,4,2
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,3
+BT,BRO,5000,100,simplicity variance,4,2
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,0
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,0
+BT,BRO,5000,100,simplicity variance,4,3
+BT,BRO,5000,100,simplicity variance,4,2
+BT,BRO,5000,100,simplicity variance,4,2
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,0,9
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,8
+BT,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,8
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,6
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,7
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+BT,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,6
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,5
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+BT,BRO,5000,100,simplicity variance estimated_atomicity,4,5
+BT,CRO,5000,100,simplicity variance,0,2
+BT,CRO,5000,100,simplicity variance,1,4
+BT,CRO,5000,100,simplicity variance,1,3
+BT,CRO,5000,100,simplicity variance,2,5
+BT,CRO,5000,100,simplicity variance,2,4
+BT,CRO,5000,100,simplicity variance,2,1
+BT,CRO,5000,100,simplicity variance,2,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,0,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,25
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,9
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,CRO,5000,100,simplicity variance,0,3
+BT,CRO,5000,100,simplicity variance,1,2
+BT,CRO,5000,100,simplicity variance,1,1
+BT,CRO,5000,100,simplicity variance,2,4
+BT,CRO,5000,100,simplicity variance,2,2
+BT,CRO,5000,100,simplicity variance,2,3
+BT,CRO,5000,100,simplicity variance,2,2
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance,3,3
+BT,CRO,5000,100,simplicity variance,3,4
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance,3,4
+BT,CRO,5000,100,simplicity variance,3,1
+BT,CRO,5000,100,simplicity variance,3,1
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,0,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,26
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,7
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,CRO,5000,100,simplicity variance,0,2
+BT,CRO,5000,100,simplicity variance,1,2
+BT,CRO,5000,100,simplicity variance,1,2
+BT,CRO,5000,100,simplicity variance,2,1
+BT,CRO,5000,100,simplicity variance,2,2
+BT,CRO,5000,100,simplicity variance,2,1
+BT,CRO,5000,100,simplicity variance,2,1
+BT,CRO,5000,100,simplicity variance,3,7
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance,3,3
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance,3,2
+BT,CRO,5000,100,simplicity variance,3,0
+BT,CRO,5000,100,simplicity variance,3,1
+BT,CRO,5000,100,simplicity variance,3,1
+BT,CRO,5000,100,simplicity variance,4,4
+BT,CRO,5000,100,simplicity variance,4,4
+BT,CRO,5000,100,simplicity variance,4,5
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,0
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,0
+BT,CRO,5000,100,simplicity variance,4,2
+BT,CRO,5000,100,simplicity variance,4,2
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,2
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,1
+BT,CRO,5000,100,simplicity variance,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,12
+BT,CRO,5000,100,simplicity variance estimated_atomicity,1,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,16
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,11
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,20
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,8
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,7
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,0
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,PSO,5000,100,simplicity variance,0,4
+BT,PSO,5000,100,simplicity variance,1,2
+BT,PSO,5000,100,simplicity variance,1,1
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,17
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,18
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,PSO,5000,100,simplicity variance,0,2
+BT,PSO,5000,100,simplicity variance,1,6
+BT,PSO,5000,100,simplicity variance,1,3
+BT,PSO,5000,100,simplicity variance,2,4
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,3
+BT,PSO,5000,100,simplicity variance,2,3
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,4
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,1
+BT,PSO,5000,100,simplicity variance,3,3
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,1
+BT,PSO,5000,100,simplicity variance,3,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,0,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,29
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance,0,2
+BT,PSO,5000,100,simplicity variance,1,3
+BT,PSO,5000,100,simplicity variance,1,2
+BT,PSO,5000,100,simplicity variance,2,3
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,2,2
+BT,PSO,5000,100,simplicity variance,3,4
+BT,PSO,5000,100,simplicity variance,3,6
+BT,PSO,5000,100,simplicity variance,3,3
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,1
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,3,2
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,3
+BT,PSO,5000,100,simplicity variance,4,5
+BT,PSO,5000,100,simplicity variance,4,0
+BT,PSO,5000,100,simplicity variance,4,3
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,2
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,3
+BT,PSO,5000,100,simplicity variance,4,3
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,1
+BT,PSO,5000,100,simplicity variance,4,2
+BT,PSO,5000,100,simplicity variance,4,2
+BT,PSO,5000,100,simplicity variance,4,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,0,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,10
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,33
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,24
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,9
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,15
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,9
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,9
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+BT,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_L,ACO,5000,100,simplicity variance,0,2
+GC_L,ACO,5000,100,simplicity variance,1,2
+GC_L,ACO,5000,100,simplicity variance,1,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,0,4
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance,0,1
+GC_L,ACO,5000,100,simplicity variance,1,1
+GC_L,ACO,5000,100,simplicity variance,1,1
+GC_L,ACO,5000,100,simplicity variance,2,2
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,3
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,3
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,0,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance,0,1
+GC_L,ACO,5000,100,simplicity variance,1,1
+GC_L,ACO,5000,100,simplicity variance,1,1
+GC_L,ACO,5000,100,simplicity variance,2,2
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,1
+GC_L,ACO,5000,100,simplicity variance,2,2
+GC_L,ACO,5000,100,simplicity variance,3,2
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,2
+GC_L,ACO,5000,100,simplicity variance,3,0
+GC_L,ACO,5000,100,simplicity variance,3,0
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,3,1
+GC_L,ACO,5000,100,simplicity variance,4,3
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,0
+GC_L,ACO,5000,100,simplicity variance,4,0
+GC_L,ACO,5000,100,simplicity variance,4,0
+GC_L,ACO,5000,100,simplicity variance,4,2
+GC_L,ACO,5000,100,simplicity variance,4,2
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,7
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BBO,5000,100,simplicity variance,0,3
+GC_L,BBO,5000,100,simplicity variance,1,3
+GC_L,BBO,5000,100,simplicity variance,1,2
+GC_L,BBO,5000,100,simplicity variance,2,1
+GC_L,BBO,5000,100,simplicity variance,2,3
+GC_L,BBO,5000,100,simplicity variance,2,2
+GC_L,BBO,5000,100,simplicity variance,2,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,0,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance,0,4
+GC_L,BBO,5000,100,simplicity variance,1,2
+GC_L,BBO,5000,100,simplicity variance,1,2
+GC_L,BBO,5000,100,simplicity variance,2,4
+GC_L,BBO,5000,100,simplicity variance,2,3
+GC_L,BBO,5000,100,simplicity variance,2,3
+GC_L,BBO,5000,100,simplicity variance,2,2
+GC_L,BBO,5000,100,simplicity variance,3,2
+GC_L,BBO,5000,100,simplicity variance,3,4
+GC_L,BBO,5000,100,simplicity variance,3,2
+GC_L,BBO,5000,100,simplicity variance,3,3
+GC_L,BBO,5000,100,simplicity variance,3,2
+GC_L,BBO,5000,100,simplicity variance,3,0
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,13
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,9
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BBO,5000,100,simplicity variance,0,3
+GC_L,BBO,5000,100,simplicity variance,1,4
+GC_L,BBO,5000,100,simplicity variance,1,2
+GC_L,BBO,5000,100,simplicity variance,2,3
+GC_L,BBO,5000,100,simplicity variance,2,3
+GC_L,BBO,5000,100,simplicity variance,2,2
+GC_L,BBO,5000,100,simplicity variance,2,1
+GC_L,BBO,5000,100,simplicity variance,3,0
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance,3,5
+GC_L,BBO,5000,100,simplicity variance,3,3
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance,3,1
+GC_L,BBO,5000,100,simplicity variance,3,3
+GC_L,BBO,5000,100,simplicity variance,4,0
+GC_L,BBO,5000,100,simplicity variance,4,3
+GC_L,BBO,5000,100,simplicity variance,4,2
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance,4,2
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance,4,2
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance,4,2
+GC_L,BBO,5000,100,simplicity variance,4,0
+GC_L,BBO,5000,100,simplicity variance,4,0
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance,4,2
+GC_L,BBO,5000,100,simplicity variance,4,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,11
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,26
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,16
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,23
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,21
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,25
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,7
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,8
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance,0,0
+GC_L,BRO,5000,100,simplicity variance,1,0
+GC_L,BRO,5000,100,simplicity variance,2,0
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,0,10
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_L,BRO,5000,100,simplicity variance,0,1
+GC_L,BRO,5000,100,simplicity variance,1,5
+GC_L,BRO,5000,100,simplicity variance,1,4
+GC_L,BRO,5000,100,simplicity variance,2,2
+GC_L,BRO,5000,100,simplicity variance,2,3
+GC_L,BRO,5000,100,simplicity variance,2,0
+GC_L,BRO,5000,100,simplicity variance,2,0
+GC_L,BRO,5000,100,simplicity variance,3,3
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,0
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,0,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,8
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,6
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_L,BRO,5000,100,simplicity variance,0,1
+GC_L,BRO,5000,100,simplicity variance,1,1
+GC_L,BRO,5000,100,simplicity variance,1,2
+GC_L,BRO,5000,100,simplicity variance,2,1
+GC_L,BRO,5000,100,simplicity variance,2,1
+GC_L,BRO,5000,100,simplicity variance,2,2
+GC_L,BRO,5000,100,simplicity variance,2,2
+GC_L,BRO,5000,100,simplicity variance,3,2
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,2
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,3
+GC_L,BRO,5000,100,simplicity variance,3,1
+GC_L,BRO,5000,100,simplicity variance,3,2
+GC_L,BRO,5000,100,simplicity variance,4,3
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance,4,3
+GC_L,BRO,5000,100,simplicity variance,4,3
+GC_L,BRO,5000,100,simplicity variance,4,2
+GC_L,BRO,5000,100,simplicity variance,4,0
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance,4,3
+GC_L,BRO,5000,100,simplicity variance,4,2
+GC_L,BRO,5000,100,simplicity variance,4,2
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance,4,3
+GC_L,BRO,5000,100,simplicity variance,4,2
+GC_L,BRO,5000,100,simplicity variance,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,9
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,CRO,5000,100,simplicity variance,0,5
+GC_L,CRO,5000,100,simplicity variance,1,4
+GC_L,CRO,5000,100,simplicity variance,1,1
+GC_L,CRO,5000,100,simplicity variance,2,7
+GC_L,CRO,5000,100,simplicity variance,2,2
+GC_L,CRO,5000,100,simplicity variance,2,1
+GC_L,CRO,5000,100,simplicity variance,2,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,16
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,CRO,5000,100,simplicity variance,0,2
+GC_L,CRO,5000,100,simplicity variance,1,2
+GC_L,CRO,5000,100,simplicity variance,1,1
+GC_L,CRO,5000,100,simplicity variance,2,4
+GC_L,CRO,5000,100,simplicity variance,2,0
+GC_L,CRO,5000,100,simplicity variance,2,0
+GC_L,CRO,5000,100,simplicity variance,2,1
+GC_L,CRO,5000,100,simplicity variance,3,7
+GC_L,CRO,5000,100,simplicity variance,3,2
+GC_L,CRO,5000,100,simplicity variance,3,0
+GC_L,CRO,5000,100,simplicity variance,3,0
+GC_L,CRO,5000,100,simplicity variance,3,1
+GC_L,CRO,5000,100,simplicity variance,3,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,11
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,9
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,9
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,9
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,28
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,CRO,5000,100,simplicity variance,0,4
+GC_L,CRO,5000,100,simplicity variance,1,2
+GC_L,CRO,5000,100,simplicity variance,1,1
+GC_L,CRO,5000,100,simplicity variance,2,6
+GC_L,CRO,5000,100,simplicity variance,2,2
+GC_L,CRO,5000,100,simplicity variance,2,2
+GC_L,CRO,5000,100,simplicity variance,2,2
+GC_L,CRO,5000,100,simplicity variance,3,4
+GC_L,CRO,5000,100,simplicity variance,3,6
+GC_L,CRO,5000,100,simplicity variance,3,0
+GC_L,CRO,5000,100,simplicity variance,3,2
+GC_L,CRO,5000,100,simplicity variance,3,1
+GC_L,CRO,5000,100,simplicity variance,3,2
+GC_L,CRO,5000,100,simplicity variance,3,1
+GC_L,CRO,5000,100,simplicity variance,3,1
+GC_L,CRO,5000,100,simplicity variance,4,3
+GC_L,CRO,5000,100,simplicity variance,4,4
+GC_L,CRO,5000,100,simplicity variance,4,3
+GC_L,CRO,5000,100,simplicity variance,4,5
+GC_L,CRO,5000,100,simplicity variance,4,0
+GC_L,CRO,5000,100,simplicity variance,4,3
+GC_L,CRO,5000,100,simplicity variance,4,0
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance,4,3
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance,4,2
+GC_L,CRO,5000,100,simplicity variance,4,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,0,6
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,19
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,24
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,6
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,21
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,25
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,19
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,17
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,12
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,19
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,14
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,26
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,12
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,15
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance,0,5
+GC_L,PSO,5000,100,simplicity variance,1,5
+GC_L,PSO,5000,100,simplicity variance,1,1
+GC_L,PSO,5000,100,simplicity variance,2,3
+GC_L,PSO,5000,100,simplicity variance,2,2
+GC_L,PSO,5000,100,simplicity variance,2,2
+GC_L,PSO,5000,100,simplicity variance,2,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,0,4
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,11
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,PSO,5000,100,simplicity variance,0,3
+GC_L,PSO,5000,100,simplicity variance,1,5
+GC_L,PSO,5000,100,simplicity variance,1,1
+GC_L,PSO,5000,100,simplicity variance,2,6
+GC_L,PSO,5000,100,simplicity variance,2,5
+GC_L,PSO,5000,100,simplicity variance,2,2
+GC_L,PSO,5000,100,simplicity variance,2,2
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,4
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,0
+GC_L,PSO,5000,100,simplicity variance,3,2
+GC_L,PSO,5000,100,simplicity variance,3,1
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,0,4
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,14
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,10
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,21
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,24
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,PSO,5000,100,simplicity variance,0,4
+GC_L,PSO,5000,100,simplicity variance,1,8
+GC_L,PSO,5000,100,simplicity variance,1,3
+GC_L,PSO,5000,100,simplicity variance,2,3
+GC_L,PSO,5000,100,simplicity variance,2,5
+GC_L,PSO,5000,100,simplicity variance,2,3
+GC_L,PSO,5000,100,simplicity variance,2,4
+GC_L,PSO,5000,100,simplicity variance,3,5
+GC_L,PSO,5000,100,simplicity variance,3,4
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,3
+GC_L,PSO,5000,100,simplicity variance,3,2
+GC_L,PSO,5000,100,simplicity variance,3,4
+GC_L,PSO,5000,100,simplicity variance,3,1
+GC_L,PSO,5000,100,simplicity variance,3,1
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,4
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance,4,3
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance,4,3
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,0
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,1
+GC_L,PSO,5000,100,simplicity variance,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,8
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,9
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,16
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,16
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,8
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,24
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,13
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,10
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,14
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,8
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_L,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance,0,1
+GC_S,ACO,5000,100,simplicity variance,1,1
+GC_S,ACO,5000,100,simplicity variance,1,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,0,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,ACO,5000,100,simplicity variance,0,2
+GC_S,ACO,5000,100,simplicity variance,1,2
+GC_S,ACO,5000,100,simplicity variance,1,2
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,2
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,2
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance,0,2
+GC_S,ACO,5000,100,simplicity variance,1,1
+GC_S,ACO,5000,100,simplicity variance,1,2
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,1
+GC_S,ACO,5000,100,simplicity variance,2,2
+GC_S,ACO,5000,100,simplicity variance,2,2
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,2
+GC_S,ACO,5000,100,simplicity variance,3,3
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,2
+GC_S,ACO,5000,100,simplicity variance,3,2
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,3,1
+GC_S,ACO,5000,100,simplicity variance,4,4
+GC_S,ACO,5000,100,simplicity variance,4,2
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,3
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,3
+GC_S,ACO,5000,100,simplicity variance,4,0
+GC_S,ACO,5000,100,simplicity variance,4,2
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,5
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BBO,5000,100,simplicity variance,0,3
+GC_S,BBO,5000,100,simplicity variance,1,2
+GC_S,BBO,5000,100,simplicity variance,1,3
+GC_S,BBO,5000,100,simplicity variance,2,0
+GC_S,BBO,5000,100,simplicity variance,2,3
+GC_S,BBO,5000,100,simplicity variance,2,4
+GC_S,BBO,5000,100,simplicity variance,2,1
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,BBO,5000,100,simplicity variance,0,2
+GC_S,BBO,5000,100,simplicity variance,1,3
+GC_S,BBO,5000,100,simplicity variance,1,2
+GC_S,BBO,5000,100,simplicity variance,2,0
+GC_S,BBO,5000,100,simplicity variance,2,4
+GC_S,BBO,5000,100,simplicity variance,2,2
+GC_S,BBO,5000,100,simplicity variance,2,1
+GC_S,BBO,5000,100,simplicity variance,3,0
+GC_S,BBO,5000,100,simplicity variance,3,3
+GC_S,BBO,5000,100,simplicity variance,3,2
+GC_S,BBO,5000,100,simplicity variance,3,2
+GC_S,BBO,5000,100,simplicity variance,3,3
+GC_S,BBO,5000,100,simplicity variance,3,1
+GC_S,BBO,5000,100,simplicity variance,3,1
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,29
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,29
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,10
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,12
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,29
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,10
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BBO,5000,100,simplicity variance,0,5
+GC_S,BBO,5000,100,simplicity variance,1,1
+GC_S,BBO,5000,100,simplicity variance,1,2
+GC_S,BBO,5000,100,simplicity variance,2,0
+GC_S,BBO,5000,100,simplicity variance,2,6
+GC_S,BBO,5000,100,simplicity variance,2,3
+GC_S,BBO,5000,100,simplicity variance,2,1
+GC_S,BBO,5000,100,simplicity variance,3,0
+GC_S,BBO,5000,100,simplicity variance,3,5
+GC_S,BBO,5000,100,simplicity variance,3,3
+GC_S,BBO,5000,100,simplicity variance,3,7
+GC_S,BBO,5000,100,simplicity variance,3,1
+GC_S,BBO,5000,100,simplicity variance,3,2
+GC_S,BBO,5000,100,simplicity variance,3,0
+GC_S,BBO,5000,100,simplicity variance,4,0
+GC_S,BBO,5000,100,simplicity variance,4,3
+GC_S,BBO,5000,100,simplicity variance,4,3
+GC_S,BBO,5000,100,simplicity variance,4,4
+GC_S,BBO,5000,100,simplicity variance,4,4
+GC_S,BBO,5000,100,simplicity variance,4,3
+GC_S,BBO,5000,100,simplicity variance,4,3
+GC_S,BBO,5000,100,simplicity variance,4,2
+GC_S,BBO,5000,100,simplicity variance,4,1
+GC_S,BBO,5000,100,simplicity variance,4,1
+GC_S,BBO,5000,100,simplicity variance,4,1
+GC_S,BBO,5000,100,simplicity variance,4,0
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,1,5
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,6
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,17
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,11
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,24
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,12
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,25
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,14
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,11
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,16
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,14
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,BRO,5000,100,simplicity variance,0,1
+GC_S,BRO,5000,100,simplicity variance,1,1
+GC_S,BRO,5000,100,simplicity variance,1,3
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,2,1
+GC_S,BRO,5000,100,simplicity variance,2,0
+GC_S,BRO,5000,100,simplicity variance,2,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BRO,5000,100,simplicity variance,0,1
+GC_S,BRO,5000,100,simplicity variance,1,1
+GC_S,BRO,5000,100,simplicity variance,1,2
+GC_S,BRO,5000,100,simplicity variance,2,1
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,2,4
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,3,1
+GC_S,BRO,5000,100,simplicity variance,3,2
+GC_S,BRO,5000,100,simplicity variance,3,1
+GC_S,BRO,5000,100,simplicity variance,3,0
+GC_S,BRO,5000,100,simplicity variance,3,1
+GC_S,BRO,5000,100,simplicity variance,3,0
+GC_S,BRO,5000,100,simplicity variance,3,2
+GC_S,BRO,5000,100,simplicity variance,3,3
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,0,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,BRO,5000,100,simplicity variance,0,1
+GC_S,BRO,5000,100,simplicity variance,1,1
+GC_S,BRO,5000,100,simplicity variance,1,4
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,2,4
+GC_S,BRO,5000,100,simplicity variance,2,2
+GC_S,BRO,5000,100,simplicity variance,3,2
+GC_S,BRO,5000,100,simplicity variance,3,3
+GC_S,BRO,5000,100,simplicity variance,3,1
+GC_S,BRO,5000,100,simplicity variance,3,2
+GC_S,BRO,5000,100,simplicity variance,3,0
+GC_S,BRO,5000,100,simplicity variance,3,4
+GC_S,BRO,5000,100,simplicity variance,3,3
+GC_S,BRO,5000,100,simplicity variance,3,1
+GC_S,BRO,5000,100,simplicity variance,4,3
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance,4,3
+GC_S,BRO,5000,100,simplicity variance,4,4
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance,4,3
+GC_S,BRO,5000,100,simplicity variance,4,2
+GC_S,BRO,5000,100,simplicity variance,4,2
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance,4,2
+GC_S,BRO,5000,100,simplicity variance,4,4
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance,4,4
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance,4,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,7
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,9
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,CRO,5000,100,simplicity variance,0,2
+GC_S,CRO,5000,100,simplicity variance,1,4
+GC_S,CRO,5000,100,simplicity variance,1,1
+GC_S,CRO,5000,100,simplicity variance,2,5
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,2,2
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,11
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,13
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,18
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,CRO,5000,100,simplicity variance,0,2
+GC_S,CRO,5000,100,simplicity variance,1,4
+GC_S,CRO,5000,100,simplicity variance,1,1
+GC_S,CRO,5000,100,simplicity variance,2,4
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,2,2
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,3,5
+GC_S,CRO,5000,100,simplicity variance,3,4
+GC_S,CRO,5000,100,simplicity variance,3,3
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,2
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,8
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,13
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,12
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance,0,6
+GC_S,CRO,5000,100,simplicity variance,1,2
+GC_S,CRO,5000,100,simplicity variance,1,1
+GC_S,CRO,5000,100,simplicity variance,2,4
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,2,1
+GC_S,CRO,5000,100,simplicity variance,3,8
+GC_S,CRO,5000,100,simplicity variance,3,2
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,5
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,1
+GC_S,CRO,5000,100,simplicity variance,3,0
+GC_S,CRO,5000,100,simplicity variance,3,0
+GC_S,CRO,5000,100,simplicity variance,4,4
+GC_S,CRO,5000,100,simplicity variance,4,7
+GC_S,CRO,5000,100,simplicity variance,4,4
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,3
+GC_S,CRO,5000,100,simplicity variance,4,3
+GC_S,CRO,5000,100,simplicity variance,4,3
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance,4,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,10
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,14
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,6
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,27
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,28
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,26
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,32
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,14
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,6
+GC_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance,0,2
+GC_S,PSO,5000,100,simplicity variance,1,3
+GC_S,PSO,5000,100,simplicity variance,1,1
+GC_S,PSO,5000,100,simplicity variance,2,2
+GC_S,PSO,5000,100,simplicity variance,2,2
+GC_S,PSO,5000,100,simplicity variance,2,2
+GC_S,PSO,5000,100,simplicity variance,2,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,6
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,12
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,PSO,5000,100,simplicity variance,0,3
+GC_S,PSO,5000,100,simplicity variance,1,6
+GC_S,PSO,5000,100,simplicity variance,1,1
+GC_S,PSO,5000,100,simplicity variance,2,6
+GC_S,PSO,5000,100,simplicity variance,2,4
+GC_S,PSO,5000,100,simplicity variance,2,1
+GC_S,PSO,5000,100,simplicity variance,2,2
+GC_S,PSO,5000,100,simplicity variance,3,4
+GC_S,PSO,5000,100,simplicity variance,3,3
+GC_S,PSO,5000,100,simplicity variance,3,5
+GC_S,PSO,5000,100,simplicity variance,3,3
+GC_S,PSO,5000,100,simplicity variance,3,1
+GC_S,PSO,5000,100,simplicity variance,3,2
+GC_S,PSO,5000,100,simplicity variance,3,2
+GC_S,PSO,5000,100,simplicity variance,3,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,5
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,20
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,5
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,PSO,5000,100,simplicity variance,0,4
+GC_S,PSO,5000,100,simplicity variance,1,3
+GC_S,PSO,5000,100,simplicity variance,1,2
+GC_S,PSO,5000,100,simplicity variance,2,4
+GC_S,PSO,5000,100,simplicity variance,2,4
+GC_S,PSO,5000,100,simplicity variance,2,3
+GC_S,PSO,5000,100,simplicity variance,2,2
+GC_S,PSO,5000,100,simplicity variance,3,6
+GC_S,PSO,5000,100,simplicity variance,3,3
+GC_S,PSO,5000,100,simplicity variance,3,5
+GC_S,PSO,5000,100,simplicity variance,3,1
+GC_S,PSO,5000,100,simplicity variance,3,4
+GC_S,PSO,5000,100,simplicity variance,3,2
+GC_S,PSO,5000,100,simplicity variance,3,1
+GC_S,PSO,5000,100,simplicity variance,3,3
+GC_S,PSO,5000,100,simplicity variance,4,2
+GC_S,PSO,5000,100,simplicity variance,4,3
+GC_S,PSO,5000,100,simplicity variance,4,4
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,3
+GC_S,PSO,5000,100,simplicity variance,4,3
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,2
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,2
+GC_S,PSO,5000,100,simplicity variance,4,2
+GC_S,PSO,5000,100,simplicity variance,4,0
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance,4,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,18
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,17
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,16
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,5
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,5
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,5
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,3
+GC_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance,0,1
+SAT_L,ACO,5000,100,simplicity variance,1,4
+SAT_L,ACO,5000,100,simplicity variance,1,2
+SAT_L,ACO,5000,100,simplicity variance,2,4
+SAT_L,ACO,5000,100,simplicity variance,2,1
+SAT_L,ACO,5000,100,simplicity variance,2,4
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,ACO,5000,100,simplicity variance,0,3
+SAT_L,ACO,5000,100,simplicity variance,1,5
+SAT_L,ACO,5000,100,simplicity variance,1,3
+SAT_L,ACO,5000,100,simplicity variance,2,5
+SAT_L,ACO,5000,100,simplicity variance,2,3
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance,3,6
+SAT_L,ACO,5000,100,simplicity variance,3,3
+SAT_L,ACO,5000,100,simplicity variance,3,7
+SAT_L,ACO,5000,100,simplicity variance,3,3
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,14
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,21
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance,0,3
+SAT_L,ACO,5000,100,simplicity variance,1,3
+SAT_L,ACO,5000,100,simplicity variance,1,2
+SAT_L,ACO,5000,100,simplicity variance,2,3
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance,2,2
+SAT_L,ACO,5000,100,simplicity variance,3,4
+SAT_L,ACO,5000,100,simplicity variance,3,3
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,4
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,3,2
+SAT_L,ACO,5000,100,simplicity variance,4,3
+SAT_L,ACO,5000,100,simplicity variance,4,3
+SAT_L,ACO,5000,100,simplicity variance,4,2
+SAT_L,ACO,5000,100,simplicity variance,4,4
+SAT_L,ACO,5000,100,simplicity variance,4,2
+SAT_L,ACO,5000,100,simplicity variance,4,2
+SAT_L,ACO,5000,100,simplicity variance,4,2
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,3
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,2
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance,4,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,5
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance,0,4
+SAT_L,BBO,5000,100,simplicity variance,1,3
+SAT_L,BBO,5000,100,simplicity variance,1,3
+SAT_L,BBO,5000,100,simplicity variance,2,1
+SAT_L,BBO,5000,100,simplicity variance,2,4
+SAT_L,BBO,5000,100,simplicity variance,2,4
+SAT_L,BBO,5000,100,simplicity variance,2,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,20
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,BBO,5000,100,simplicity variance,0,4
+SAT_L,BBO,5000,100,simplicity variance,1,3
+SAT_L,BBO,5000,100,simplicity variance,1,3
+SAT_L,BBO,5000,100,simplicity variance,2,1
+SAT_L,BBO,5000,100,simplicity variance,2,4
+SAT_L,BBO,5000,100,simplicity variance,2,5
+SAT_L,BBO,5000,100,simplicity variance,2,2
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,0,5
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,18
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,26
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_L,BBO,5000,100,simplicity variance,0,5
+SAT_L,BBO,5000,100,simplicity variance,1,4
+SAT_L,BBO,5000,100,simplicity variance,1,3
+SAT_L,BBO,5000,100,simplicity variance,2,6
+SAT_L,BBO,5000,100,simplicity variance,2,4
+SAT_L,BBO,5000,100,simplicity variance,2,3
+SAT_L,BBO,5000,100,simplicity variance,2,1
+SAT_L,BBO,5000,100,simplicity variance,3,6
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,4
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,4
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,3
+SAT_L,BBO,5000,100,simplicity variance,3,1
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,5
+SAT_L,BBO,5000,100,simplicity variance,4,3
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,3
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,5
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,2
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance,4,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,9
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,14
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,25
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,21
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,5
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,BRO,5000,100,simplicity variance,0,3
+SAT_L,BRO,5000,100,simplicity variance,1,1
+SAT_L,BRO,5000,100,simplicity variance,1,1
+SAT_L,BRO,5000,100,simplicity variance,2,1
+SAT_L,BRO,5000,100,simplicity variance,2,2
+SAT_L,BRO,5000,100,simplicity variance,2,1
+SAT_L,BRO,5000,100,simplicity variance,2,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,10
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BRO,5000,100,simplicity variance,0,2
+SAT_L,BRO,5000,100,simplicity variance,1,3
+SAT_L,BRO,5000,100,simplicity variance,1,2
+SAT_L,BRO,5000,100,simplicity variance,2,3
+SAT_L,BRO,5000,100,simplicity variance,2,5
+SAT_L,BRO,5000,100,simplicity variance,2,1
+SAT_L,BRO,5000,100,simplicity variance,2,3
+SAT_L,BRO,5000,100,simplicity variance,3,2
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance,3,1
+SAT_L,BRO,5000,100,simplicity variance,3,1
+SAT_L,BRO,5000,100,simplicity variance,3,1
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,37
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,12
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,13
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance,0,4
+SAT_L,BRO,5000,100,simplicity variance,1,2
+SAT_L,BRO,5000,100,simplicity variance,1,0
+SAT_L,BRO,5000,100,simplicity variance,2,2
+SAT_L,BRO,5000,100,simplicity variance,2,2
+SAT_L,BRO,5000,100,simplicity variance,2,1
+SAT_L,BRO,5000,100,simplicity variance,3,4
+SAT_L,BRO,5000,100,simplicity variance,3,1
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance,3,1
+SAT_L,BRO,5000,100,simplicity variance,3,2
+SAT_L,BRO,5000,100,simplicity variance,3,3
+SAT_L,BRO,5000,100,simplicity variance,4,3
+SAT_L,BRO,5000,100,simplicity variance,4,2
+SAT_L,BRO,5000,100,simplicity variance,4,1
+SAT_L,BRO,5000,100,simplicity variance,4,0
+SAT_L,BRO,5000,100,simplicity variance,4,2
+SAT_L,BRO,5000,100,simplicity variance,4,1
+SAT_L,BRO,5000,100,simplicity variance,4,3
+SAT_L,BRO,5000,100,simplicity variance,4,1
+SAT_L,BRO,5000,100,simplicity variance,4,2
+SAT_L,BRO,5000,100,simplicity variance,4,1
+SAT_L,BRO,5000,100,simplicity variance,4,2
+SAT_L,BRO,5000,100,simplicity variance,4,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,10
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,22
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,28
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,40
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,20
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,14
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,26
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,30
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,39
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,25
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,18
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,CRO,5000,100,simplicity variance,0,3
+SAT_L,CRO,5000,100,simplicity variance,1,6
+SAT_L,CRO,5000,100,simplicity variance,1,2
+SAT_L,CRO,5000,100,simplicity variance,2,4
+SAT_L,CRO,5000,100,simplicity variance,2,3
+SAT_L,CRO,5000,100,simplicity variance,2,4
+SAT_L,CRO,5000,100,simplicity variance,2,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_L,CRO,5000,100,simplicity variance,0,5
+SAT_L,CRO,5000,100,simplicity variance,1,4
+SAT_L,CRO,5000,100,simplicity variance,1,3
+SAT_L,CRO,5000,100,simplicity variance,2,5
+SAT_L,CRO,5000,100,simplicity variance,2,3
+SAT_L,CRO,5000,100,simplicity variance,2,3
+SAT_L,CRO,5000,100,simplicity variance,2,2
+SAT_L,CRO,5000,100,simplicity variance,3,8
+SAT_L,CRO,5000,100,simplicity variance,3,4
+SAT_L,CRO,5000,100,simplicity variance,3,4
+SAT_L,CRO,5000,100,simplicity variance,3,1
+SAT_L,CRO,5000,100,simplicity variance,3,5
+SAT_L,CRO,5000,100,simplicity variance,3,1
+SAT_L,CRO,5000,100,simplicity variance,3,3
+SAT_L,CRO,5000,100,simplicity variance,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,0,6
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,19
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,11
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,19
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,17
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,16
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,31
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,19
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,23
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,CRO,5000,100,simplicity variance,0,3
+SAT_L,CRO,5000,100,simplicity variance,1,2
+SAT_L,CRO,5000,100,simplicity variance,1,2
+SAT_L,CRO,5000,100,simplicity variance,2,4
+SAT_L,CRO,5000,100,simplicity variance,2,3
+SAT_L,CRO,5000,100,simplicity variance,2,1
+SAT_L,CRO,5000,100,simplicity variance,2,1
+SAT_L,CRO,5000,100,simplicity variance,3,7
+SAT_L,CRO,5000,100,simplicity variance,3,3
+SAT_L,CRO,5000,100,simplicity variance,3,1
+SAT_L,CRO,5000,100,simplicity variance,3,4
+SAT_L,CRO,5000,100,simplicity variance,3,6
+SAT_L,CRO,5000,100,simplicity variance,3,2
+SAT_L,CRO,5000,100,simplicity variance,3,1
+SAT_L,CRO,5000,100,simplicity variance,3,2
+SAT_L,CRO,5000,100,simplicity variance,4,6
+SAT_L,CRO,5000,100,simplicity variance,4,6
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,4
+SAT_L,CRO,5000,100,simplicity variance,4,4
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,4
+SAT_L,CRO,5000,100,simplicity variance,4,0
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,1
+SAT_L,CRO,5000,100,simplicity variance,4,0
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,9
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,13
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,33
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,21
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,19
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,29
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,41
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,18
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,26
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,PSO,5000,100,simplicity variance,0,6
+SAT_L,PSO,5000,100,simplicity variance,1,3
+SAT_L,PSO,5000,100,simplicity variance,1,3
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,12
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,9
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,PSO,5000,100,simplicity variance,0,4
+SAT_L,PSO,5000,100,simplicity variance,1,4
+SAT_L,PSO,5000,100,simplicity variance,1,2
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,7
+SAT_L,PSO,5000,100,simplicity variance,2,6
+SAT_L,PSO,5000,100,simplicity variance,2,3
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,4
+SAT_L,PSO,5000,100,simplicity variance,3,4
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,4
+SAT_L,PSO,5000,100,simplicity variance,3,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,0,5
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,18
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,18
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,7
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,22
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,17
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,24
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,11
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,8
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_L,PSO,5000,100,simplicity variance,0,4
+SAT_L,PSO,5000,100,simplicity variance,1,5
+SAT_L,PSO,5000,100,simplicity variance,1,3
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,4
+SAT_L,PSO,5000,100,simplicity variance,2,3
+SAT_L,PSO,5000,100,simplicity variance,2,2
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,1
+SAT_L,PSO,5000,100,simplicity variance,3,4
+SAT_L,PSO,5000,100,simplicity variance,3,5
+SAT_L,PSO,5000,100,simplicity variance,3,1
+SAT_L,PSO,5000,100,simplicity variance,3,3
+SAT_L,PSO,5000,100,simplicity variance,3,2
+SAT_L,PSO,5000,100,simplicity variance,3,2
+SAT_L,PSO,5000,100,simplicity variance,4,4
+SAT_L,PSO,5000,100,simplicity variance,4,4
+SAT_L,PSO,5000,100,simplicity variance,4,4
+SAT_L,PSO,5000,100,simplicity variance,4,2
+SAT_L,PSO,5000,100,simplicity variance,4,3
+SAT_L,PSO,5000,100,simplicity variance,4,4
+SAT_L,PSO,5000,100,simplicity variance,4,2
+SAT_L,PSO,5000,100,simplicity variance,4,3
+SAT_L,PSO,5000,100,simplicity variance,4,1
+SAT_L,PSO,5000,100,simplicity variance,4,1
+SAT_L,PSO,5000,100,simplicity variance,4,2
+SAT_L,PSO,5000,100,simplicity variance,4,4
+SAT_L,PSO,5000,100,simplicity variance,4,3
+SAT_L,PSO,5000,100,simplicity variance,4,2
+SAT_L,PSO,5000,100,simplicity variance,4,3
+SAT_L,PSO,5000,100,simplicity variance,4,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,9
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,8
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,22
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,8
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,11
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,18
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,25
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,20
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,27
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,20
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,11
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,12
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,13
+SAT_L,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,ACO,5000,100,simplicity variance,0,3
+SAT_M,ACO,5000,100,simplicity variance,1,5
+SAT_M,ACO,5000,100,simplicity variance,1,2
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,1
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,12
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,ACO,5000,100,simplicity variance,0,5
+SAT_M,ACO,5000,100,simplicity variance,1,4
+SAT_M,ACO,5000,100,simplicity variance,1,2
+SAT_M,ACO,5000,100,simplicity variance,2,4
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,3
+SAT_M,ACO,5000,100,simplicity variance,3,3
+SAT_M,ACO,5000,100,simplicity variance,3,3
+SAT_M,ACO,5000,100,simplicity variance,3,4
+SAT_M,ACO,5000,100,simplicity variance,3,1
+SAT_M,ACO,5000,100,simplicity variance,3,1
+SAT_M,ACO,5000,100,simplicity variance,3,3
+SAT_M,ACO,5000,100,simplicity variance,3,1
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,10
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,14
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,ACO,5000,100,simplicity variance,0,3
+SAT_M,ACO,5000,100,simplicity variance,1,5
+SAT_M,ACO,5000,100,simplicity variance,1,2
+SAT_M,ACO,5000,100,simplicity variance,2,3
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,2,2
+SAT_M,ACO,5000,100,simplicity variance,3,4
+SAT_M,ACO,5000,100,simplicity variance,3,5
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance,3,0
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance,3,2
+SAT_M,ACO,5000,100,simplicity variance,4,1
+SAT_M,ACO,5000,100,simplicity variance,4,3
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,1
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,0
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,1
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,1
+SAT_M,ACO,5000,100,simplicity variance,4,1
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,17
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,8
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,14
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,BBO,5000,100,simplicity variance,0,4
+SAT_M,BBO,5000,100,simplicity variance,1,2
+SAT_M,BBO,5000,100,simplicity variance,1,1
+SAT_M,BBO,5000,100,simplicity variance,2,3
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,2,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,0,5
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_M,BBO,5000,100,simplicity variance,0,4
+SAT_M,BBO,5000,100,simplicity variance,1,3
+SAT_M,BBO,5000,100,simplicity variance,1,2
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,2,3
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,3,4
+SAT_M,BBO,5000,100,simplicity variance,3,0
+SAT_M,BBO,5000,100,simplicity variance,3,4
+SAT_M,BBO,5000,100,simplicity variance,3,3
+SAT_M,BBO,5000,100,simplicity variance,3,3
+SAT_M,BBO,5000,100,simplicity variance,3,2
+SAT_M,BBO,5000,100,simplicity variance,3,2
+SAT_M,BBO,5000,100,simplicity variance,3,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,0,5
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,12
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,10
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,31
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,20
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BBO,5000,100,simplicity variance,0,3
+SAT_M,BBO,5000,100,simplicity variance,1,4
+SAT_M,BBO,5000,100,simplicity variance,1,1
+SAT_M,BBO,5000,100,simplicity variance,2,1
+SAT_M,BBO,5000,100,simplicity variance,2,4
+SAT_M,BBO,5000,100,simplicity variance,2,2
+SAT_M,BBO,5000,100,simplicity variance,2,1
+SAT_M,BBO,5000,100,simplicity variance,3,1
+SAT_M,BBO,5000,100,simplicity variance,3,2
+SAT_M,BBO,5000,100,simplicity variance,3,1
+SAT_M,BBO,5000,100,simplicity variance,3,0
+SAT_M,BBO,5000,100,simplicity variance,3,2
+SAT_M,BBO,5000,100,simplicity variance,3,2
+SAT_M,BBO,5000,100,simplicity variance,3,0
+SAT_M,BBO,5000,100,simplicity variance,3,0
+SAT_M,BBO,5000,100,simplicity variance,4,2
+SAT_M,BBO,5000,100,simplicity variance,4,3
+SAT_M,BBO,5000,100,simplicity variance,4,4
+SAT_M,BBO,5000,100,simplicity variance,4,1
+SAT_M,BBO,5000,100,simplicity variance,4,1
+SAT_M,BBO,5000,100,simplicity variance,4,3
+SAT_M,BBO,5000,100,simplicity variance,4,1
+SAT_M,BBO,5000,100,simplicity variance,4,0
+SAT_M,BBO,5000,100,simplicity variance,4,1
+SAT_M,BBO,5000,100,simplicity variance,4,2
+SAT_M,BBO,5000,100,simplicity variance,4,0
+SAT_M,BBO,5000,100,simplicity variance,4,0
+SAT_M,BBO,5000,100,simplicity variance,4,0
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,27
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,31
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,16
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,12
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,BRO,5000,100,simplicity variance,0,3
+SAT_M,BRO,5000,100,simplicity variance,1,3
+SAT_M,BRO,5000,100,simplicity variance,1,2
+SAT_M,BRO,5000,100,simplicity variance,2,3
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,6
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,10
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,7
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BRO,5000,100,simplicity variance,0,5
+SAT_M,BRO,5000,100,simplicity variance,1,4
+SAT_M,BRO,5000,100,simplicity variance,1,2
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,2,3
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,16
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,20
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,BRO,5000,100,simplicity variance,0,2
+SAT_M,BRO,5000,100,simplicity variance,1,3
+SAT_M,BRO,5000,100,simplicity variance,1,1
+SAT_M,BRO,5000,100,simplicity variance,2,3
+SAT_M,BRO,5000,100,simplicity variance,2,1
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,2,2
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,4
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,2
+SAT_M,BRO,5000,100,simplicity variance,3,1
+SAT_M,BRO,5000,100,simplicity variance,3,3
+SAT_M,BRO,5000,100,simplicity variance,4,3
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,5
+SAT_M,BRO,5000,100,simplicity variance,4,3
+SAT_M,BRO,5000,100,simplicity variance,4,4
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,2
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,2
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,2
+SAT_M,BRO,5000,100,simplicity variance,4,1
+SAT_M,BRO,5000,100,simplicity variance,4,4
+SAT_M,BRO,5000,100,simplicity variance,4,2
+SAT_M,BRO,5000,100,simplicity variance,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,0,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,11
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,10
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,5
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,19
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,10
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,5
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,9
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,5
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_M,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,CRO,5000,100,simplicity variance,0,4
+SAT_M,CRO,5000,100,simplicity variance,1,2
+SAT_M,CRO,5000,100,simplicity variance,1,2
+SAT_M,CRO,5000,100,simplicity variance,2,5
+SAT_M,CRO,5000,100,simplicity variance,2,3
+SAT_M,CRO,5000,100,simplicity variance,2,2
+SAT_M,CRO,5000,100,simplicity variance,2,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,9
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,CRO,5000,100,simplicity variance,0,3
+SAT_M,CRO,5000,100,simplicity variance,1,3
+SAT_M,CRO,5000,100,simplicity variance,1,2
+SAT_M,CRO,5000,100,simplicity variance,2,4
+SAT_M,CRO,5000,100,simplicity variance,2,1
+SAT_M,CRO,5000,100,simplicity variance,2,5
+SAT_M,CRO,5000,100,simplicity variance,2,1
+SAT_M,CRO,5000,100,simplicity variance,3,4
+SAT_M,CRO,5000,100,simplicity variance,3,2
+SAT_M,CRO,5000,100,simplicity variance,3,0
+SAT_M,CRO,5000,100,simplicity variance,3,5
+SAT_M,CRO,5000,100,simplicity variance,3,1
+SAT_M,CRO,5000,100,simplicity variance,3,0
+SAT_M,CRO,5000,100,simplicity variance,3,1
+SAT_M,CRO,5000,100,simplicity variance,3,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,17
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,22
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,17
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,19
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,CRO,5000,100,simplicity variance,0,3
+SAT_M,CRO,5000,100,simplicity variance,1,4
+SAT_M,CRO,5000,100,simplicity variance,1,2
+SAT_M,CRO,5000,100,simplicity variance,2,6
+SAT_M,CRO,5000,100,simplicity variance,2,2
+SAT_M,CRO,5000,100,simplicity variance,2,2
+SAT_M,CRO,5000,100,simplicity variance,2,1
+SAT_M,CRO,5000,100,simplicity variance,3,5
+SAT_M,CRO,5000,100,simplicity variance,3,4
+SAT_M,CRO,5000,100,simplicity variance,3,4
+SAT_M,CRO,5000,100,simplicity variance,3,1
+SAT_M,CRO,5000,100,simplicity variance,3,2
+SAT_M,CRO,5000,100,simplicity variance,3,2
+SAT_M,CRO,5000,100,simplicity variance,3,1
+SAT_M,CRO,5000,100,simplicity variance,3,1
+SAT_M,CRO,5000,100,simplicity variance,4,4
+SAT_M,CRO,5000,100,simplicity variance,4,2
+SAT_M,CRO,5000,100,simplicity variance,4,2
+SAT_M,CRO,5000,100,simplicity variance,4,3
+SAT_M,CRO,5000,100,simplicity variance,4,2
+SAT_M,CRO,5000,100,simplicity variance,4,2
+SAT_M,CRO,5000,100,simplicity variance,4,0
+SAT_M,CRO,5000,100,simplicity variance,4,1
+SAT_M,CRO,5000,100,simplicity variance,4,0
+SAT_M,CRO,5000,100,simplicity variance,4,1
+SAT_M,CRO,5000,100,simplicity variance,4,4
+SAT_M,CRO,5000,100,simplicity variance,4,1
+SAT_M,CRO,5000,100,simplicity variance,4,0
+SAT_M,CRO,5000,100,simplicity variance,4,1
+SAT_M,CRO,5000,100,simplicity variance,4,2
+SAT_M,CRO,5000,100,simplicity variance,4,0
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,7
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,20
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,29
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,17
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,28
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,30
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,PSO,5000,100,simplicity variance,0,1
+SAT_M,PSO,5000,100,simplicity variance,1,5
+SAT_M,PSO,5000,100,simplicity variance,1,2
+SAT_M,PSO,5000,100,simplicity variance,2,2
+SAT_M,PSO,5000,100,simplicity variance,2,0
+SAT_M,PSO,5000,100,simplicity variance,2,5
+SAT_M,PSO,5000,100,simplicity variance,2,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,17
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,7
+SAT_M,PSO,5000,100,simplicity variance,0,3
+SAT_M,PSO,5000,100,simplicity variance,1,3
+SAT_M,PSO,5000,100,simplicity variance,1,5
+SAT_M,PSO,5000,100,simplicity variance,2,5
+SAT_M,PSO,5000,100,simplicity variance,2,2
+SAT_M,PSO,5000,100,simplicity variance,2,4
+SAT_M,PSO,5000,100,simplicity variance,2,4
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,4
+SAT_M,PSO,5000,100,simplicity variance,3,1
+SAT_M,PSO,5000,100,simplicity variance,3,2
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,2
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,9
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,13
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,10
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,16
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,PSO,5000,100,simplicity variance,0,2
+SAT_M,PSO,5000,100,simplicity variance,1,4
+SAT_M,PSO,5000,100,simplicity variance,1,2
+SAT_M,PSO,5000,100,simplicity variance,2,4
+SAT_M,PSO,5000,100,simplicity variance,2,2
+SAT_M,PSO,5000,100,simplicity variance,2,4
+SAT_M,PSO,5000,100,simplicity variance,2,2
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,2
+SAT_M,PSO,5000,100,simplicity variance,3,1
+SAT_M,PSO,5000,100,simplicity variance,3,1
+SAT_M,PSO,5000,100,simplicity variance,3,4
+SAT_M,PSO,5000,100,simplicity variance,3,3
+SAT_M,PSO,5000,100,simplicity variance,3,1
+SAT_M,PSO,5000,100,simplicity variance,4,2
+SAT_M,PSO,5000,100,simplicity variance,4,3
+SAT_M,PSO,5000,100,simplicity variance,4,4
+SAT_M,PSO,5000,100,simplicity variance,4,3
+SAT_M,PSO,5000,100,simplicity variance,4,1
+SAT_M,PSO,5000,100,simplicity variance,4,1
+SAT_M,PSO,5000,100,simplicity variance,4,1
+SAT_M,PSO,5000,100,simplicity variance,4,2
+SAT_M,PSO,5000,100,simplicity variance,4,0
+SAT_M,PSO,5000,100,simplicity variance,4,2
+SAT_M,PSO,5000,100,simplicity variance,4,0
+SAT_M,PSO,5000,100,simplicity variance,4,4
+SAT_M,PSO,5000,100,simplicity variance,4,2
+SAT_M,PSO,5000,100,simplicity variance,4,1
+SAT_M,PSO,5000,100,simplicity variance,4,1
+SAT_M,PSO,5000,100,simplicity variance,4,0
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,10
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,12
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,16
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,3,7
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,15
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,10
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,9
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,31
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,9
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,11
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_M,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,ACO,5000,100,simplicity variance,0,1
+SAT_S,ACO,5000,100,simplicity variance,1,2
+SAT_S,ACO,5000,100,simplicity variance,1,1
+SAT_S,ACO,5000,100,simplicity variance,2,2
+SAT_S,ACO,5000,100,simplicity variance,2,3
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,ACO,5000,100,simplicity variance,0,2
+SAT_S,ACO,5000,100,simplicity variance,1,3
+SAT_S,ACO,5000,100,simplicity variance,1,2
+SAT_S,ACO,5000,100,simplicity variance,2,2
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance,2,2
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,2
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,3
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,11
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,0
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,0
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,ACO,5000,100,simplicity variance,0,3
+SAT_S,ACO,5000,100,simplicity variance,1,2
+SAT_S,ACO,5000,100,simplicity variance,1,1
+SAT_S,ACO,5000,100,simplicity variance,2,2
+SAT_S,ACO,5000,100,simplicity variance,2,2
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance,2,1
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,2
+SAT_S,ACO,5000,100,simplicity variance,3,2
+SAT_S,ACO,5000,100,simplicity variance,3,0
+SAT_S,ACO,5000,100,simplicity variance,3,2
+SAT_S,ACO,5000,100,simplicity variance,3,0
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,3,1
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,0
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,0
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance,4,0
+SAT_S,ACO,5000,100,simplicity variance,4,0
+SAT_S,ACO,5000,100,simplicity variance,4,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,7
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,11
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,7
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,9
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,ACO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BBO,5000,100,simplicity variance,0,2
+SAT_S,BBO,5000,100,simplicity variance,1,2
+SAT_S,BBO,5000,100,simplicity variance,1,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,7
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BBO,5000,100,simplicity variance,0,2
+SAT_S,BBO,5000,100,simplicity variance,1,2
+SAT_S,BBO,5000,100,simplicity variance,1,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,2
+SAT_S,BBO,5000,100,simplicity variance,2,2
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,3,2
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,3
+SAT_S,BBO,5000,100,simplicity variance,3,0
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance,0,2
+SAT_S,BBO,5000,100,simplicity variance,1,2
+SAT_S,BBO,5000,100,simplicity variance,1,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,2
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,2,1
+SAT_S,BBO,5000,100,simplicity variance,3,2
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,0
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,1
+SAT_S,BBO,5000,100,simplicity variance,3,2
+SAT_S,BBO,5000,100,simplicity variance,4,3
+SAT_S,BBO,5000,100,simplicity variance,4,2
+SAT_S,BBO,5000,100,simplicity variance,4,2
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance,4,0
+SAT_S,BBO,5000,100,simplicity variance,4,0
+SAT_S,BBO,5000,100,simplicity variance,4,2
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance,4,2
+SAT_S,BBO,5000,100,simplicity variance,4,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,13
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,BBO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance,0,2
+SAT_S,BRO,5000,100,simplicity variance,1,1
+SAT_S,BRO,5000,100,simplicity variance,1,2
+SAT_S,BRO,5000,100,simplicity variance,2,3
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,0
+SAT_S,BRO,5000,100,simplicity variance,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,0,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance,0,2
+SAT_S,BRO,5000,100,simplicity variance,1,2
+SAT_S,BRO,5000,100,simplicity variance,1,2
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,2
+SAT_S,BRO,5000,100,simplicity variance,3,3
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,2
+SAT_S,BRO,5000,100,simplicity variance,3,2
+SAT_S,BRO,5000,100,simplicity variance,3,3
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,12
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,4
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance,0,1
+SAT_S,BRO,5000,100,simplicity variance,1,2
+SAT_S,BRO,5000,100,simplicity variance,1,2
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,1
+SAT_S,BRO,5000,100,simplicity variance,2,3
+SAT_S,BRO,5000,100,simplicity variance,2,2
+SAT_S,BRO,5000,100,simplicity variance,3,2
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,0
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,3,1
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,0
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,0
+SAT_S,BRO,5000,100,simplicity variance,4,2
+SAT_S,BRO,5000,100,simplicity variance,4,2
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,2
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,0
+SAT_S,BRO,5000,100,simplicity variance,4,1
+SAT_S,BRO,5000,100,simplicity variance,4,0
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,13
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,0
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,6
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,BRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,CRO,5000,100,simplicity variance,0,3
+SAT_S,CRO,5000,100,simplicity variance,1,1
+SAT_S,CRO,5000,100,simplicity variance,1,1
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,2,2
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance,0,1
+SAT_S,CRO,5000,100,simplicity variance,1,1
+SAT_S,CRO,5000,100,simplicity variance,1,2
+SAT_S,CRO,5000,100,simplicity variance,2,2
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,3,2
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,0
+SAT_S,CRO,5000,100,simplicity variance,3,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,8
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,3
+SAT_S,CRO,5000,100,simplicity variance,0,2
+SAT_S,CRO,5000,100,simplicity variance,1,1
+SAT_S,CRO,5000,100,simplicity variance,1,1
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,2,0
+SAT_S,CRO,5000,100,simplicity variance,2,2
+SAT_S,CRO,5000,100,simplicity variance,2,1
+SAT_S,CRO,5000,100,simplicity variance,3,0
+SAT_S,CRO,5000,100,simplicity variance,3,0
+SAT_S,CRO,5000,100,simplicity variance,3,0
+SAT_S,CRO,5000,100,simplicity variance,3,2
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,1
+SAT_S,CRO,5000,100,simplicity variance,3,2
+SAT_S,CRO,5000,100,simplicity variance,4,0
+SAT_S,CRO,5000,100,simplicity variance,4,0
+SAT_S,CRO,5000,100,simplicity variance,4,0
+SAT_S,CRO,5000,100,simplicity variance,4,1
+SAT_S,CRO,5000,100,simplicity variance,4,1
+SAT_S,CRO,5000,100,simplicity variance,4,0
+SAT_S,CRO,5000,100,simplicity variance,4,2
+SAT_S,CRO,5000,100,simplicity variance,4,1
+SAT_S,CRO,5000,100,simplicity variance,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,4
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,1,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,10
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,9
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,15
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,3
+SAT_S,CRO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance,0,3
+SAT_S,PSO,5000,100,simplicity variance,1,1
+SAT_S,PSO,5000,100,simplicity variance,1,2
+SAT_S,PSO,5000,100,simplicity variance,2,0
+SAT_S,PSO,5000,100,simplicity variance,2,0
+SAT_S,PSO,5000,100,simplicity variance,2,1
+SAT_S,PSO,5000,100,simplicity variance,2,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,0,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,5
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,3
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,6
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,3
+SAT_S,PSO,5000,100,simplicity variance,0,1
+SAT_S,PSO,5000,100,simplicity variance,1,2
+SAT_S,PSO,5000,100,simplicity variance,1,1
+SAT_S,PSO,5000,100,simplicity variance,2,1
+SAT_S,PSO,5000,100,simplicity variance,2,2
+SAT_S,PSO,5000,100,simplicity variance,2,0
+SAT_S,PSO,5000,100,simplicity variance,2,2
+SAT_S,PSO,5000,100,simplicity variance,3,2
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,3,3
+SAT_S,PSO,5000,100,simplicity variance,3,2
+SAT_S,PSO,5000,100,simplicity variance,3,0
+SAT_S,PSO,5000,100,simplicity variance,3,0
+SAT_S,PSO,5000,100,simplicity variance,3,0
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,0,3
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,7
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,5
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,13
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,6
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance,0,2
+SAT_S,PSO,5000,100,simplicity variance,1,1
+SAT_S,PSO,5000,100,simplicity variance,1,1
+SAT_S,PSO,5000,100,simplicity variance,2,1
+SAT_S,PSO,5000,100,simplicity variance,2,1
+SAT_S,PSO,5000,100,simplicity variance,2,2
+SAT_S,PSO,5000,100,simplicity variance,2,1
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,3,0
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,3,2
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,3,1
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance,4,0
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance,4,0
+SAT_S,PSO,5000,100,simplicity variance,4,0
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance,4,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,0,4
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,6
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,1,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,8
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,4
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,2,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,16
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,3,5
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,10
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,11
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,1
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,4
+SAT_S,PSO,5000,100,simplicity variance estimated_atomicity,4,2

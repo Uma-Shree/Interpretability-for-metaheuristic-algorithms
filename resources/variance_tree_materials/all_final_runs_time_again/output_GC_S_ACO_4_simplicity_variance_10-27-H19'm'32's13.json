@@ -1,0 +1,89 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 846.893019585116,
+                    "mae": 19.660186524794092,
+                    "r_sq": 0.304100665098364,
+                    "evs": 0.30453766811285765
+                }
+            }
+        ],
+        "runtime_seconds": 236.8,
+        "problem": "GC_S",
+        "algorithm": "ACO",
+        "depth": 4,
+        "metrics_used": "simplicity variance"
+    }
+]

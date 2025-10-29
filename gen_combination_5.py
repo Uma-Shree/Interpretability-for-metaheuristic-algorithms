@@ -68,7 +68,7 @@ def generate_all_ps_combinations():
     # PHASE 2 
     #["PSO", "BBO", "CRO", "BRO", "AOA", "ABC"]
     #algorithms = ["CRO", "WOA", "HHO", "SSA", "SMA", "AOA", "SCA", "BRO", "PSO", "BBO", ]
-    algorithms = [ "BBO", "ACO",  "BRO", "CRO", "PSO"] # "AOA", "SSO"]
+    algorithms = ["CRO"] #[ "BBO", "ACO",  "BRO", "CRO", "PSO"] # "AOA", "SSO"]
     #algorithms = ["BRO", "CRO", "AOA", "SSO"]
     
     depths = [3, 4, 5]

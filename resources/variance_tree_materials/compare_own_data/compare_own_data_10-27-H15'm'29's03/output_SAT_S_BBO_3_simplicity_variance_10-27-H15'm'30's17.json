@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 5.406370705918179,
+                    "mae": 1.9148745519713257,
+                    "r_sq": 0.5782855317867395,
+                    "evs": 0.6152659911508671
+                }
+            }
+        ],
+        "runtime_seconds": 73.874,
+        "problem": "SAT_S",
+        "algorithm": "BBO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

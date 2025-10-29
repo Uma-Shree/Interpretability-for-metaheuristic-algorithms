@@ -1,0 +1,89 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 4,
+                            "matching": {
+                                "own": 4,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 14.957865412076288,
+                    "mae": 2.2142820223881214,
+                    "r_sq": 0.5530666559048771,
+                    "evs": 0.5573458282526784
+                }
+            }
+        ],
+        "runtime_seconds": 123.945,
+        "problem": "SAT_M",
+        "algorithm": "CRO",
+        "depth": 4,
+        "metrics_used": "simplicity variance"
+    }
+]

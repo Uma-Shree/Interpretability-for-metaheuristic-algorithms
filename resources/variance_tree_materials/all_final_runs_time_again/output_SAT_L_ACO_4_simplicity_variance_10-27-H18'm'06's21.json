@@ -1,0 +1,89 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 5,
+                            "matching": {
+                                "own": 7,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 4,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 4,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 3,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 28.901620546671747,
+                    "mae": 3.9764268460782257,
+                    "r_sq": 0.8177343566406846,
+                    "evs": 0.8177658187332661
+                }
+            }
+        ],
+        "runtime_seconds": 166.72,
+        "problem": "SAT_L",
+        "algorithm": "ACO",
+        "depth": 4,
+        "metrics_used": "simplicity variance"
+    }
+]

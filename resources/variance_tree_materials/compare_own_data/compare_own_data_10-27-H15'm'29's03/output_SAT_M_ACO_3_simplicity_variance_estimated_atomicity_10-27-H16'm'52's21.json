@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 4,
+                    "matching": {
+                        "own": 6,
+                        "matching": {
+                            "own": 7,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 11,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 4,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 11.271894198802224,
+                    "mae": 2.205239101631063,
+                    "r_sq": 0.7657835734139947,
+                    "evs": 0.7698569973786913
+                }
+            }
+        ],
+        "runtime_seconds": 75.99,
+        "problem": "SAT_M",
+        "algorithm": "ACO",
+        "depth": 3,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

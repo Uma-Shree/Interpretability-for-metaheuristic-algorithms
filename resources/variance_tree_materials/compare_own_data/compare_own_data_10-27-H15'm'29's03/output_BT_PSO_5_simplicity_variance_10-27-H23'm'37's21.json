@@ -1,0 +1,153 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 5,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 4,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 4,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 33.49072455309479,
+                    "mae": 4.038169504835695,
+                    "r_sq": 0.8256925486693123,
+                    "evs": 0.8257539125280932
+                }
+            }
+        ],
+        "runtime_seconds": 298.485,
+        "problem": "BT",
+        "algorithm": "PSO",
+        "depth": 5,
+        "metrics_used": "simplicity variance"
+    }
+]

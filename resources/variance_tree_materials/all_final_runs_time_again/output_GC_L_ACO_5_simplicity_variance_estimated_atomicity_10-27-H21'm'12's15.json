@@ -1,0 +1,149 @@
+[
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 1,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {},
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 115.54084525785605,
+                    "mae": 8.102814412625285,
+                    "r_sq": 0.22093606688207967,
+                    "evs": 0.24231400340408915
+                }
+            }
+        ],
+        "runtime_seconds": 215.659,
+        "problem": "GC_L",
+        "algorithm": "ACO",
+        "depth": 5,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

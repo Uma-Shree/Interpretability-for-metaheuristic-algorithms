@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 4,
+                    "matching": {
+                        "own": 6,
+                        "matching": {
+                            "own": 5,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 4,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 4,
+                        "matching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 16.322998193236238,
+                    "mae": 2.998308022782548,
+                    "r_sq": 0.8375361166211399,
+                    "evs": 0.8397197874093687
+                }
+            }
+        ],
+        "runtime_seconds": 73.198,
+        "problem": "SAT_L",
+        "algorithm": "PSO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

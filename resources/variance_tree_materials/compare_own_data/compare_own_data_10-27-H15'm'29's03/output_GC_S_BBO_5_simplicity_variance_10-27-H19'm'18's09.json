@@ -1,0 +1,153 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 6,
+                        "matching": {
+                            "own": 7,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 5,
+                                "matching": {
+                                    "own": 4,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 5,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 0,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 3,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 138.66380878878977,
+                    "mae": 7.544977850205343,
+                    "r_sq": 0.947218963407742,
+                    "evs": 0.9476151805970126
+                }
+            }
+        ],
+        "runtime_seconds": 286.365,
+        "problem": "GC_S",
+        "algorithm": "BBO",
+        "depth": 5,
+        "metrics_used": "simplicity variance"
+    }
+]

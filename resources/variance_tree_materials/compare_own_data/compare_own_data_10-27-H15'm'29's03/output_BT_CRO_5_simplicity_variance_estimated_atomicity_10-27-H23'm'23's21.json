@@ -1,0 +1,153 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 5,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 7,
+                        "matching": {
+                            "own": 34,
+                            "matching": {
+                                "own": 21,
+                                "matching": {
+                                    "own": 6,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 22,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 39,
+                                "matching": {
+                                    "own": 26,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 18,
+                            "matching": {
+                                "own": 5,
+                                "matching": {
+                                    "own": 26,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 28,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 1,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    },
+                    "unmatching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 5,
+                            "matching": {
+                                "own": 18,
+                                "matching": {
+                                    "own": 22,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 9,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {
+                                    "own": 4,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        },
+                        "unmatching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 3,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            },
+                            "unmatching": {
+                                "own": 2,
+                                "matching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                },
+                                "unmatching": {
+                                    "own": 2,
+                                    "matching": {},
+                                    "unmatching": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 11.077587555245165,
+                    "mae": 2.156965394101917,
+                    "r_sq": 0.925073296178054,
+                    "evs": 0.9279494329132816
+                }
+            }
+        ],
+        "runtime_seconds": 300.242,
+        "problem": "BT",
+        "algorithm": "CRO",
+        "depth": 5,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

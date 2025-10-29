@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance estimated_atomicity",
+                "order_tree": {
+                    "own": 2,
+                    "matching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 24,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 5,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 3,
+                        "matching": {
+                            "own": 2,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 395.11248366332075,
+                    "mae": 12.94570983853814,
+                    "r_sq": 0.8479281995751461,
+                    "evs": 0.8497578028993856
+                }
+            }
+        ],
+        "runtime_seconds": 75.547,
+        "problem": "GC_S",
+        "algorithm": "PSO",
+        "depth": 3,
+        "metrics_used": "simplicity variance estimated_atomicity"
+    }
+]

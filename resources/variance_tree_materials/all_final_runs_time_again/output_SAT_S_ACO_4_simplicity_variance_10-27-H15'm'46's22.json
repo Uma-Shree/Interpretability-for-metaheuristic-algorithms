@@ -1,0 +1,85 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 4,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 3,
+                    "matching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 0,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 2,
+                            "matching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        },
+                        "unmatching": {
+                            "own": 4,
+                            "matching": {
+                                "own": 0,
+                                "matching": {},
+                                "unmatching": {}
+                            },
+                            "unmatching": {
+                                "own": 1,
+                                "matching": {},
+                                "unmatching": {}
+                            }
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 3.47469346655152,
+                    "mae": 1.2711766470644628,
+                    "r_sq": 0.29282647053986677,
+                    "evs": 0.3290436562899184
+                }
+            }
+        ],
+        "runtime_seconds": 120.417,
+        "problem": "SAT_S",
+        "algorithm": "ACO",
+        "depth": 4,
+        "metrics_used": "simplicity variance"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 6,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 0,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 2,
+                        "matching": {
+                            "own": 3,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    }
+                },
+                "results": {
+                    "mse": 22.21120253179812,
+                    "mae": 3.4531189326124263,
+                    "r_sq": 0.9316256450623117,
+                    "evs": 0.9318985683114799
+                }
+            }
+        ],
+        "runtime_seconds": 108.262,
+        "problem": "BT",
+        "algorithm": "BBO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

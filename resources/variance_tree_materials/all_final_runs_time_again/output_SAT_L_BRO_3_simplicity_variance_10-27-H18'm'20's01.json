@@ -1,0 +1,53 @@
+[
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "ps",
+                "depth": 3,
+                "ps_budget": 5000,
+                "ps_population": 100,
+                "avoid_ancestors": false,
+                "metrics": "simplicity variance",
+                "order_tree": {
+                    "own": 1,
+                    "matching": {
+                        "own": 1,
+                        "matching": {
+                            "own": 4,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        }
+                    },
+                    "unmatching": {
+                        "own": 0,
+                        "matching": {
+                            "own": 1,
+                            "matching": {},
+                            "unmatching": {}
+                        },
+                        "unmatching": {}
+                    }
+                },
+                "results": {
+                    "mse": 12.87254240466511,
+                    "mae": 2.4174708428382887,
+                    "r_sq": 0.7032049582768134,
+                    "evs": 0.7035878097848292
+                }
+            }
+        ],
+        "runtime_seconds": 81.662,
+        "problem": "SAT_L",
+        "algorithm": "BRO",
+        "depth": 3,
+        "metrics_used": "simplicity variance"
+    }
+]

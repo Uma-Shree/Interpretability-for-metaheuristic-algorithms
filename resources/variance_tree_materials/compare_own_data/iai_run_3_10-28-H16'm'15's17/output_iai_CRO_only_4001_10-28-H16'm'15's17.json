@@ -1,0 +1,278 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 8.563352019733472,
+                    "mae": 2.4860098522167493,
+                    "r_sq": 0.16152578717557553,
+                    "evs": 0.168019340237885
+                },
+                "runtime_seconds": 4.762
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 8.563352019733472,
+                    "mae": 2.4860098522167493,
+                    "r_sq": 0.16152578717557553,
+                    "evs": 0.168019340237885
+                },
+                "runtime_seconds": 4.762
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 8.563352019733472,
+                    "mae": 2.4860098522167493,
+                    "r_sq": 0.16152578717557553,
+                    "evs": 0.168019340237885
+                },
+                "runtime_seconds": 4.762
+            }
+        ],
+        "runtime_seconds_total": 14.285,
+        "problem": "SAT_S",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 54.48921514731573,
+                    "mae": 4.544047617193169,
+                    "r_sq": 0.4242000259753177,
+                    "evs": 0.42537032645855843
+                },
+                "runtime_seconds": 2.902
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 23.264965562150707,
+                    "mae": 3.36380811883908,
+                    "r_sq": 0.7541537985057319,
+                    "evs": 0.7547093348854408
+                },
+                "runtime_seconds": 2.902
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 19.07728883555579,
+                    "mae": 2.911844003949271,
+                    "r_sq": 0.7984059343435869,
+                    "evs": 0.798430892450324
+                },
+                "runtime_seconds": 2.902
+            }
+        ],
+        "runtime_seconds_total": 8.705,
+        "problem": "SAT_M",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 31.95939069639421,
+                    "mae": 4.21009326295367,
+                    "r_sq": 0.6665488555591457,
+                    "evs": 0.6801230715116771
+                },
+                "runtime_seconds": 6.062
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 34.09968120985086,
+                    "mae": 4.0647020793028945,
+                    "r_sq": 0.644217944187029,
+                    "evs": 0.6481924645745423
+                },
+                "runtime_seconds": 6.062
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 20.93931028799602,
+                    "mae": 3.3854154500134954,
+                    "r_sq": 0.7815278443302052,
+                    "evs": 0.7825308892932126
+                },
+                "runtime_seconds": 6.062
+            }
+        ],
+        "runtime_seconds_total": 18.185,
+        "problem": "SAT_L",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 505.5510038812875,
+                    "mae": 16.711239376751656,
+                    "r_sq": 0.718381113074502,
+                    "evs": 0.718449629870755
+                },
+                "runtime_seconds": 7.148
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 502.05732758293516,
+                    "mae": 16.041321243827777,
+                    "r_sq": 0.7203272772060463,
+                    "evs": 0.7266208912085843
+                },
+                "runtime_seconds": 7.148
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 266.26861096931054,
+                    "mae": 11.85896581460051,
+                    "r_sq": 0.8516741747742947,
+                    "evs": 0.8516972855892756
+                },
+                "runtime_seconds": 7.148
+            }
+        ],
+        "runtime_seconds_total": 21.444,
+        "problem": "GC_S",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 264.756846486972,
+                    "mae": 11.131719631719555,
+                    "r_sq": 0.4290629995914996,
+                    "evs": 0.4292392288354543
+                },
+                "runtime_seconds": 3.469
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 99.1728766529846,
+                    "mae": 6.457169337053377,
+                    "r_sq": 0.7861378639705039,
+                    "evs": 0.7862723582085293
+                },
+                "runtime_seconds": 3.469
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 99.58880278650986,
+                    "mae": 6.314509274426184,
+                    "r_sq": 0.7852409367627003,
+                    "evs": 0.7895738771573046
+                },
+                "runtime_seconds": 3.469
+            }
+        ],
+        "runtime_seconds_total": 10.408,
+        "problem": "GC_L",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "iai",
+                "depth": 3,
+                "cp": 0.25,
+                "results": {
+                    "mse": 62.121910619681906,
+                    "mae": 5.242702487689502,
+                    "r_sq": 0.7304448415493419,
+                    "evs": 0.7317726060488469
+                },
+                "runtime_seconds": 7.857
+            },
+            {
+                "kind": "iai",
+                "depth": 4,
+                "cp": 0.25,
+                "results": {
+                    "mse": 62.121910619681906,
+                    "mae": 5.242702487689502,
+                    "r_sq": 0.7304448415493419,
+                    "evs": 0.7317726060488469
+                },
+                "runtime_seconds": 7.857
+            },
+            {
+                "kind": "iai",
+                "depth": 5,
+                "cp": 0.25,
+                "results": {
+                    "mse": 32.204989873729815,
+                    "mae": 3.573596566619202,
+                    "r_sq": 0.8602583040070777,
+                    "evs": 0.8604295466173892
+                },
+                "runtime_seconds": 7.857
+            }
+        ],
+        "runtime_seconds_total": 23.571,
+        "problem": "BT",
+        "algorithm": "CRO"
+    }
+]

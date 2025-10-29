@@ -1,0 +1,1292 @@
+[
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 5.509470292285229,
+                    "mae": 1.8279141515761226,
+                    "r_sq": 0.2594797994240281,
+                    "evs": 0.27804329823468643
+                },
+                "runtime_seconds": 0.721
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 7.533576865684155,
+                    "mae": 2.0847517730496445,
+                    "r_sq": -0.012577535710236232,
+                    "evs": -0.010692056355386725
+                },
+                "runtime_seconds": 0.721
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 6.072774589942172,
+                    "mae": 1.9454767353165527,
+                    "r_sq": 0.18376685619056798,
+                    "evs": 0.18475977870340943
+                },
+                "runtime_seconds": 0.721
+            }
+        ],
+        "runtime_seconds_total": 2.162,
+        "problem": "SAT_S",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 6.975242189468381,
+                    "mae": 2.0575998075998077,
+                    "r_sq": 0.31910731943966764,
+                    "evs": 0.34194546963939143
+                },
+                "runtime_seconds": 1.407
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 7.911955526763666,
+                    "mae": 2.0630657221566304,
+                    "r_sq": 0.22766945422681673,
+                    "evs": 0.24193999255320942
+                },
+                "runtime_seconds": 1.407
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 10.237868413998871,
+                    "mae": 2.2893021120293846,
+                    "r_sq": 0.0006239958009348623,
+                    "evs": 0.014097152714704464
+                },
+                "runtime_seconds": 1.407
+            }
+        ],
+        "runtime_seconds_total": 4.222,
+        "problem": "SAT_S",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 3.0903681663437057,
+                    "mae": 1.443698743052148,
+                    "r_sq": 0.5286511264520876,
+                    "evs": 0.5321352321681245
+                },
+                "runtime_seconds": 3.253
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 3.1011962468129957,
+                    "mae": 1.3076147125516873,
+                    "r_sq": 0.5269996068734594,
+                    "evs": 0.5278640013901421
+                },
+                "runtime_seconds": 3.253
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 3.478448546184152,
+                    "mae": 1.335110348536771,
+                    "r_sq": 0.469460363398034,
+                    "evs": 0.47620489815117906
+                },
+                "runtime_seconds": 3.253
+            }
+        ],
+        "runtime_seconds_total": 9.759,
+        "problem": "SAT_S",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 8.63766537030134,
+                    "mae": 2.354046765601491,
+                    "r_sq": 0.39930289948825237,
+                    "evs": 0.39972514659628333
+                },
+                "runtime_seconds": 1.274
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 7.118934655710562,
+                    "mae": 2.1409900917083036,
+                    "r_sq": 0.5049213852250978,
+                    "evs": 0.5053104735461758
+                },
+                "runtime_seconds": 1.274
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 5.438271166734752,
+                    "mae": 1.8525134460339387,
+                    "r_sq": 0.621801310700667,
+                    "evs": 0.623005996909598
+                },
+                "runtime_seconds": 1.274
+            }
+        ],
+        "runtime_seconds_total": 3.823,
+        "problem": "SAT_S",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "SAT_S",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 2.098365131529044,
+                    "mae": 1.0994234488710941,
+                    "r_sq": 0.4943284027298861,
+                    "evs": 0.4943285391708431
+                },
+                "runtime_seconds": 1.046
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 2.2144708435060485,
+                    "mae": 1.108364288697936,
+                    "r_sq": 0.4663488295157554,
+                    "evs": 0.46730217453447187
+                },
+                "runtime_seconds": 1.046
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 2.309904269995166,
+                    "mae": 1.0481516290726824,
+                    "r_sq": 0.4433509382142796,
+                    "evs": 0.4511408794919237
+                },
+                "runtime_seconds": 1.046
+            }
+        ],
+        "runtime_seconds_total": 3.137,
+        "problem": "SAT_S",
+        "algorithm": "PSO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 11.162949049693104,
+                    "mae": 2.7054911551862744,
+                    "r_sq": 0.8340742415812391,
+                    "evs": 0.8369747233050431
+                },
+                "runtime_seconds": 1.231
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 8.59242006839378,
+                    "mae": 2.317101859415722,
+                    "r_sq": 0.8722825115339915,
+                    "evs": 0.8735438338850262
+                },
+                "runtime_seconds": 1.231
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 8.811240280126688,
+                    "mae": 2.324201702710982,
+                    "r_sq": 0.869029974106157,
+                    "evs": 0.8692414334711608
+                },
+                "runtime_seconds": 1.231
+            }
+        ],
+        "runtime_seconds_total": 3.694,
+        "problem": "SAT_M",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 39.981171354755496,
+                    "mae": 4.9831747377800015,
+                    "r_sq": 0.3047225031329307,
+                    "evs": 0.3422128265803577
+                },
+                "runtime_seconds": 3.141
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 40.94868531466701,
+                    "mae": 4.775520061334015,
+                    "r_sq": 0.28789731614022374,
+                    "evs": 0.32439607488010413
+                },
+                "runtime_seconds": 3.141
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 35.12446797630714,
+                    "mae": 4.495077524155774,
+                    "r_sq": 0.3891811733912689,
+                    "evs": 0.4265174600784549
+                },
+                "runtime_seconds": 3.141
+            }
+        ],
+        "runtime_seconds_total": 9.423,
+        "problem": "SAT_M",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 16.968154195808207,
+                    "mae": 2.9678161636863183,
+                    "r_sq": 0.6394225895004197,
+                    "evs": 0.6408530978952639
+                },
+                "runtime_seconds": 7.864
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 15.598903914020191,
+                    "mae": 2.7534582500636238,
+                    "r_sq": 0.6685194915697628,
+                    "evs": 0.6706917717753988
+                },
+                "runtime_seconds": 7.864
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 14.076480985761208,
+                    "mae": 2.592181942917728,
+                    "r_sq": 0.7008713496930479,
+                    "evs": 0.70628608512863
+                },
+                "runtime_seconds": 7.864
+            }
+        ],
+        "runtime_seconds_total": 23.593,
+        "problem": "SAT_M",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 13.221882193818836,
+                    "mae": 2.7255842711552973,
+                    "r_sq": 0.504253501261508,
+                    "evs": 0.5042999858877922
+                },
+                "runtime_seconds": 2.455
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 10.436027678594757,
+                    "mae": 2.4721907904692495,
+                    "r_sq": 0.6087074361606408,
+                    "evs": 0.6087135332640213
+                },
+                "runtime_seconds": 2.455
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 8.690341774099856,
+                    "mae": 2.212882323138788,
+                    "r_sq": 0.6741608763262976,
+                    "evs": 0.674239748339723
+                },
+                "runtime_seconds": 2.455
+            }
+        ],
+        "runtime_seconds_total": 7.364,
+        "problem": "SAT_M",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "SAT_M",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 16.88056265835832,
+                    "mae": 2.8650718800920525,
+                    "r_sq": 0.4658764788898191,
+                    "evs": 0.4665019481179785
+                },
+                "runtime_seconds": 2.174
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 12.707468447131761,
+                    "mae": 2.501654227952711,
+                    "r_sq": 0.597918746623187,
+                    "evs": 0.6050076592645319
+                },
+                "runtime_seconds": 2.174
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 13.000394565624738,
+                    "mae": 2.4794988535898987,
+                    "r_sq": 0.5886501734718568,
+                    "evs": 0.5997560124217346
+                },
+                "runtime_seconds": 2.174
+            }
+        ],
+        "runtime_seconds_total": 6.522,
+        "problem": "SAT_M",
+        "algorithm": "PSO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 32.81590086670085,
+                    "mae": 4.695549776939352,
+                    "r_sq": 0.8327176682668715,
+                    "evs": 0.8327264034242978
+                },
+                "runtime_seconds": 2.518
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 22.327769832288492,
+                    "mae": 3.2572711484436927,
+                    "r_sq": 0.8861819635816897,
+                    "evs": 0.8877356062316638
+                },
+                "runtime_seconds": 2.518
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 22.930659411117016,
+                    "mae": 3.2963102109548053,
+                    "r_sq": 0.8831086737477855,
+                    "evs": 0.883333841388386
+                },
+                "runtime_seconds": 2.518
+            }
+        ],
+        "runtime_seconds_total": 7.555,
+        "problem": "SAT_L",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 99.37290418952823,
+                    "mae": 7.574009746303771,
+                    "r_sq": 0.5675665926728566,
+                    "evs": 0.5735016794886829
+                },
+                "runtime_seconds": 6.351
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 90.44993468417964,
+                    "mae": 6.751843289149793,
+                    "r_sq": 0.6063959912714405,
+                    "evs": 0.6216891309164996
+                },
+                "runtime_seconds": 6.351
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 75.6942462919103,
+                    "mae": 6.073887043088825,
+                    "r_sq": 0.6706071830542304,
+                    "evs": 0.6788412057441265
+                },
+                "runtime_seconds": 6.351
+            }
+        ],
+        "runtime_seconds_total": 19.053,
+        "problem": "SAT_L",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 44.51090172096418,
+                    "mae": 5.436817862910793,
+                    "r_sq": 0.7207189633210724,
+                    "evs": 0.7207532369591806
+                },
+                "runtime_seconds": 24.859
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 31.172009582556385,
+                    "mae": 4.171900825736595,
+                    "r_sq": 0.8044130580378358,
+                    "evs": 0.8044618251663264
+                },
+                "runtime_seconds": 24.859
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 36.43167155623683,
+                    "mae": 4.3550336959805565,
+                    "r_sq": 0.7714116181254568,
+                    "evs": 0.7715293213529756
+                },
+                "runtime_seconds": 24.859
+            }
+        ],
+        "runtime_seconds_total": 74.577,
+        "problem": "SAT_L",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 21.796351693406837,
+                    "mae": 3.4978199574218345,
+                    "r_sq": 0.569814078592267,
+                    "evs": 0.5698152368912118
+                },
+                "runtime_seconds": 7.682
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 15.960076572507086,
+                    "mae": 2.9584870889575834,
+                    "r_sq": 0.6850023186146899,
+                    "evs": 0.6856313063615112
+                },
+                "runtime_seconds": 7.682
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 14.125142336005776,
+                    "mae": 2.7537634655630865,
+                    "r_sq": 0.7212176855878096,
+                    "evs": 0.7227525669528361
+                },
+                "runtime_seconds": 7.682
+            }
+        ],
+        "runtime_seconds_total": 23.045,
+        "problem": "SAT_L",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "SAT_L",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 41.26689228187588,
+                    "mae": 4.794301848951228,
+                    "r_sq": 0.6306051387361937,
+                    "evs": 0.6338985110107416
+                },
+                "runtime_seconds": 7.49
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 37.03417299095091,
+                    "mae": 4.4164565278026835,
+                    "r_sq": 0.6684937382595109,
+                    "evs": 0.6685080650985087
+                },
+                "runtime_seconds": 7.49
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 30.388267905753914,
+                    "mae": 3.928583825918197,
+                    "r_sq": 0.7279836356365657,
+                    "evs": 0.7299447069571472
+                },
+                "runtime_seconds": 7.49
+            }
+        ],
+        "runtime_seconds_total": 22.47,
+        "problem": "SAT_L",
+        "algorithm": "PSO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 290.28788958298287,
+                    "mae": 12.377117516196146,
+                    "r_sq": 0.691718420673438,
+                    "evs": 0.6918500489589452
+                },
+                "runtime_seconds": 1.938
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 249.75235842468305,
+                    "mae": 10.18817127628035,
+                    "r_sq": 0.734766573947326,
+                    "evs": 0.7348401643314897
+                },
+                "runtime_seconds": 1.938
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 212.49443446954658,
+                    "mae": 9.325596672248187,
+                    "r_sq": 0.7743339553348814,
+                    "evs": 0.774617041290107
+                },
+                "runtime_seconds": 1.938
+            }
+        ],
+        "runtime_seconds_total": 5.813,
+        "problem": "GC_S",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 531.2121107180208,
+                    "mae": 16.34138884330831,
+                    "r_sq": 0.8021786889177163,
+                    "evs": 0.8021793048320723
+                },
+                "runtime_seconds": 6.857
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 292.5929315666279,
+                    "mae": 12.117298630259992,
+                    "r_sq": 0.8910395373748475,
+                    "evs": 0.8919034215008744
+                },
+                "runtime_seconds": 6.857
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 279.03387210512324,
+                    "mae": 9.492407711395325,
+                    "r_sq": 0.8960888780536433,
+                    "evs": 0.8972181382883166
+                },
+                "runtime_seconds": 6.857
+            }
+        ],
+        "runtime_seconds_total": 20.571,
+        "problem": "GC_S",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 542.8641391677235,
+                    "mae": 18.533658159473372,
+                    "r_sq": 0.4237566018418414,
+                    "evs": 0.42399186561526114
+                },
+                "runtime_seconds": 28.411
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 511.46290017930016,
+                    "mae": 17.454529593213806,
+                    "r_sq": 0.4570886187416995,
+                    "evs": 0.4571136438689918
+                },
+                "runtime_seconds": 28.411
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 644.206903652011,
+                    "mae": 18.411636072261068,
+                    "r_sq": 0.3161825427509256,
+                    "evs": 0.3164301298143414
+                },
+                "runtime_seconds": 28.411
+            }
+        ],
+        "runtime_seconds_total": 85.232,
+        "problem": "GC_S",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 8287.757803471146,
+                    "mae": 72.08950100361363,
+                    "r_sq": 0.6337976562628558,
+                    "evs": 0.6337985791080967
+                },
+                "runtime_seconds": 2.467
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 6756.644764364532,
+                    "mae": 65.11002395767954,
+                    "r_sq": 0.7014513204677277,
+                    "evs": 0.7015451647632756
+                },
+                "runtime_seconds": 2.467
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 5697.234574910061,
+                    "mae": 59.73945628083422,
+                    "r_sq": 0.7482623523000951,
+                    "evs": 0.7484566388436775
+                },
+                "runtime_seconds": 2.467
+            }
+        ],
+        "runtime_seconds_total": 7.401,
+        "problem": "GC_S",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "GC_S",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 1030.4126518008522,
+                    "mae": 22.609759729254826,
+                    "r_sq": 0.6629703581496978,
+                    "evs": 0.663071523566455
+                },
+                "runtime_seconds": 2.129
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 847.2324965815013,
+                    "mae": 19.32211361036996,
+                    "r_sq": 0.7228853271669771,
+                    "evs": 0.7231203039765304
+                },
+                "runtime_seconds": 2.129
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 535.7730737865127,
+                    "mae": 16.460918436869605,
+                    "r_sq": 0.8247581618337865,
+                    "evs": 0.8251434106141882
+                },
+                "runtime_seconds": 2.129
+            }
+        ],
+        "runtime_seconds_total": 6.388,
+        "problem": "GC_S",
+        "algorithm": "PSO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 67.9758334073426,
+                    "mae": 5.266169846464372,
+                    "r_sq": 0.8136890026809145,
+                    "evs": 0.8159070160092265
+                },
+                "runtime_seconds": 0.867
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 55.95509848395453,
+                    "mae": 4.794876262898702,
+                    "r_sq": 0.8466359339625673,
+                    "evs": 0.8467012805829761
+                },
+                "runtime_seconds": 0.867
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 43.035955998059364,
+                    "mae": 4.153870321990076,
+                    "r_sq": 0.882045258135627,
+                    "evs": 0.8826540954298084
+                },
+                "runtime_seconds": 0.867
+            }
+        ],
+        "runtime_seconds_total": 2.6,
+        "problem": "GC_L",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 168.73196433716151,
+                    "mae": 9.872286837376462,
+                    "r_sq": 0.6859540974255691,
+                    "evs": 0.6936802985867957
+                },
+                "runtime_seconds": 3.977
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 121.22736052259911,
+                    "mae": 7.765633060757039,
+                    "r_sq": 0.7743702208316505,
+                    "evs": 0.7827195257449046
+                },
+                "runtime_seconds": 3.977
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 123.49610513431927,
+                    "mae": 7.2914754662711925,
+                    "r_sq": 0.7701476068645967,
+                    "evs": 0.7769541055855258
+                },
+                "runtime_seconds": 3.977
+            }
+        ],
+        "runtime_seconds_total": 11.932,
+        "problem": "GC_L",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 77.64624632142359,
+                    "mae": 6.913951030307694,
+                    "r_sq": 0.4155263659715469,
+                    "evs": 0.49297174855318115
+                },
+                "runtime_seconds": 16.352
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 100.66480351138921,
+                    "mae": 7.523351365414541,
+                    "r_sq": 0.24225669218438117,
+                    "evs": 0.3766849743142051
+                },
+                "runtime_seconds": 16.352
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 98.10159485354306,
+                    "mae": 7.067500532254634,
+                    "r_sq": 0.26155096524972543,
+                    "evs": 0.401242590702804
+                },
+                "runtime_seconds": 16.352
+            }
+        ],
+        "runtime_seconds_total": 49.057,
+        "problem": "GC_L",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 3633.6568022116317,
+                    "mae": 46.816238276643176,
+                    "r_sq": 0.5632982715501045,
+                    "evs": 0.563671998095679
+                },
+                "runtime_seconds": 1.603
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 2869.8053761324068,
+                    "mae": 40.52547660830527,
+                    "r_sq": 0.6550997971770387,
+                    "evs": 0.6551823987983142
+                },
+                "runtime_seconds": 1.603
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 2521.1437021973634,
+                    "mae": 37.68282907801554,
+                    "r_sq": 0.6970028067180041,
+                    "evs": 0.697089636093488
+                },
+                "runtime_seconds": 1.603
+            }
+        ],
+        "runtime_seconds_total": 4.81,
+        "problem": "GC_L",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "GC_L",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 165.91111845433883,
+                    "mae": 9.505869507637376,
+                    "r_sq": 0.5564838115546618,
+                    "evs": 0.5617983135923107
+                },
+                "runtime_seconds": 1.373
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 144.8998186694451,
+                    "mae": 8.74553083176147,
+                    "r_sq": 0.6126515457107251,
+                    "evs": 0.6127012363236718
+                },
+                "runtime_seconds": 1.373
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 152.06178108227965,
+                    "mae": 8.971757409257409,
+                    "r_sq": 0.5935060761320641,
+                    "evs": 0.5937473668017084
+                },
+                "runtime_seconds": 1.373
+            }
+        ],
+        "runtime_seconds_total": 4.118,
+        "problem": "GC_L",
+        "algorithm": "PSO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "CRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 27.914000925447073,
+                    "mae": 4.071735271074879,
+                    "r_sq": 0.8493136964974899,
+                    "evs": 0.8521252608095267
+                },
+                "runtime_seconds": 3.955
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 14.861535216056922,
+                    "mae": 2.738254095509903,
+                    "r_sq": 0.9197739581631067,
+                    "evs": 0.9197742455688064
+                },
+                "runtime_seconds": 3.955
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 18.687204303195763,
+                    "mae": 2.5182524336445575,
+                    "r_sq": 0.899122101960034,
+                    "evs": 0.89922574897542
+                },
+                "runtime_seconds": 3.955
+            }
+        ],
+        "runtime_seconds_total": 11.865,
+        "problem": "BT",
+        "algorithm": "CRO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "BBO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 32.481843042274825,
+                    "mae": 4.337360629285457,
+                    "r_sq": 0.9113355347112653,
+                    "evs": 0.9134272236484394
+                },
+                "runtime_seconds": 12.95
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 22.918633616192142,
+                    "mae": 3.4916380589256306,
+                    "r_sq": 0.9374398678029637,
+                    "evs": 0.9375367050119817
+                },
+                "runtime_seconds": 12.95
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 16.572831208679702,
+                    "mae": 2.6901729872741273,
+                    "r_sq": 0.954761765964893,
+                    "evs": 0.9547618888277233
+                },
+                "runtime_seconds": 12.95
+            }
+        ],
+        "runtime_seconds_total": 38.851,
+        "problem": "BT",
+        "algorithm": "BBO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "ACO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 42.27439255433952,
+                    "mae": 5.328110006424277,
+                    "r_sq": 0.6947783876000075,
+                    "evs": 0.6947991331625154
+                },
+                "runtime_seconds": 43.637
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 37.155930129367064,
+                    "mae": 4.734872993922947,
+                    "r_sq": 0.7317337466238121,
+                    "evs": 0.7322836642890174
+                },
+                "runtime_seconds": 43.637
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 48.46233700914271,
+                    "mae": 5.2309896116775425,
+                    "r_sq": 0.6501013557181445,
+                    "evs": 0.6517086135598853
+                },
+                "runtime_seconds": 43.637
+            }
+        ],
+        "runtime_seconds_total": 130.91,
+        "problem": "BT",
+        "algorithm": "ACO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "BRO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 29.638932780792338,
+                    "mae": 4.361983949206723,
+                    "r_sq": 0.21412313926187732,
+                    "evs": 0.21421995298651153
+                },
+                "runtime_seconds": 10.162
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 27.882262562011817,
+                    "mae": 4.164135643280853,
+                    "r_sq": 0.26070128318823504,
+                    "evs": 0.26078211436361043
+                },
+                "runtime_seconds": 10.162
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 26.308980128722546,
+                    "mae": 4.057061762424786,
+                    "r_sq": 0.302416896529383,
+                    "evs": 0.30241800132794416
+                },
+                "runtime_seconds": 10.162
+            }
+        ],
+        "runtime_seconds_total": 30.487,
+        "problem": "BT",
+        "algorithm": "BRO"
+    },
+    {
+        "problem_name": "BT",
+        "sample_size": 10000,
+        "pRef_method": "PSO",
+        "results_by_tree": [
+            {
+                "kind": "naive",
+                "depth": 3,
+                "results": {
+                    "mse": 33.6736743607272,
+                    "mae": 4.369085651154121,
+                    "r_sq": 0.8318323127507923,
+                    "evs": 0.8318329331936551
+                },
+                "runtime_seconds": 8.679
+            },
+            {
+                "kind": "naive",
+                "depth": 4,
+                "results": {
+                    "mse": 35.37249435302508,
+                    "mae": 4.607198225074222,
+                    "r_sq": 0.823348337224479,
+                    "evs": 0.8235669500016312
+                },
+                "runtime_seconds": 8.679
+            },
+            {
+                "kind": "naive",
+                "depth": 5,
+                "results": {
+                    "mse": 32.59613324626741,
+                    "mae": 4.283690415244884,
+                    "r_sq": 0.8372135965154762,
+                    "evs": 0.837297731982642
+                },
+                "runtime_seconds": 8.679
+            }
+        ],
+        "runtime_seconds_total": 26.037,
+        "problem": "BT",
+        "algorithm": "PSO"
+    }
+]
