@@ -46,7 +46,7 @@ class DE:
                     donor_values[j] = population[a].values[j] + self.F * (population[b].values[j] - population[c].values[j])
                     # Ensure bounds
                     domain_size = self.search_space.cardinalities[j]
-                    donor_values[j] = max(0, min(int(donor_values[j]), domain_size - 1))
+                    donor_values[j] = max(0, min(int(donor_values[j]), domain_size - 1))#abs(np.tanh(donor_values[j])) #
                 
                 # Crossover: create trial vector
                 trial_values = target.values.copy()

@@ -13,15 +13,13 @@ from Core.PS import PS
 from Core.ArchivePSMiner import ArchivePSMiner
 from FSStochasticSearch.HistoryPRefs import uniformly_random_distribution_pRef, pRef_from_GA, pRef_from_SA, \
     pRef_from_GA_best, pRef_from_SA_best, pRef_from_tabu_search, pRef_from_PSO, \
-    pRef_from_DE, pRef_from_BBO, pRef_from_ABC, pRef_from_CRO, pRef_from_BRO, pRef_from_ACO, pRef_from_WOA, pRef_from_HHO, pRef_from_SMO, \
-    pRef_from_CRO_all, pRef_from_BRO_all, pRef_from_ACO_all, pRef_from_BBO_all, pRef_from_PSO_best
+    pRef_from_DE, pRef_from_BBO_all, pRef_from_BBO_all, pRef_from_ABC, pRef_from_CRO_all, pRef_from_BRO_all, pRef_from_ACO_all, pRef_from_WOA, pRef_from_HHO, pRef_from_SMO
 from PSMiners.AbstractPSMiner import AbstractPSMiner
 from PSMiners.DEAP.DEAPPSMiner import DEAPPSMiner
 from PSMiners.DEAP.deap_utils import report_in_order_of_last_metric, plot_stats_for_run
 from PSMiners.PyMoo.SequentialCrowdingMiner import SequentialCrowdingMiner
 from utils import announce
 import plotly.express as px
-#from FSStochasticSearch.MealpyAdapter import run_pso
 
 
 def get_history_pRef(benchmark_problem: BenchmarkProblem,
@@ -54,7 +52,7 @@ def get_history_pRef(benchmark_problem: BenchmarkProblem,
 
             case "GA_best": return pRef_from_GA_best(benchmark_problem=benchmark_problem,
                                                      sample_size=sample_size,
-                                                     fs_evaluation_budget=sample_size * 100, # TODO decide elsewhere
+                                                     fs_evaluation_budget=sample_size * 100, 
                                                      )
             case "SA_best": return pRef_from_SA_best(benchmark_problem=benchmark_problem,
                                                     sample_size=sample_size)

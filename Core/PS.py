@@ -93,6 +93,13 @@ class PS:
         return [self.with_unfixed_value(i) for i in self.get_fixed_variable_positions()]
 
     def specialisations(self, search_space: SearchSpace):
+        children = []
+        for position in self.get_unfixed_variable_positions():
+            for value in range(search_space.cardinalities[position]):
+                child = self.with_fixed_value(position, value)
+                print(f"Specialising: Variable {position} fixed to {value} -> {child.values}")
+                children.append(child)
+            return children
         return [self.with_fixed_value(position, value)
                 for position in self.get_unfixed_variable_positions()
                 for value in range(search_space.cardinalities[position])]

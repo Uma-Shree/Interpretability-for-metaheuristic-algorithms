@@ -130,8 +130,8 @@ def pRef_from_PSO(benchmark_problem, sample_size: int, max_trace: int) -> PRef:
     )
     
 
-    #model.solve(problem_dict, mode='single')
-    model.solve(problem_dict, mode='swarm')
+    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='swarm')
 
     solutions = []
     
@@ -409,8 +409,8 @@ def pRef_from_BBO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         n_elites=2
     )
     
-    #model.solve(problem_dict, mode='single')
-    model.solve(problem_dict, mode='swarm')
+    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -444,7 +444,104 @@ def pRef_from_BBO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
     
     return PRef.from_evaluated_full_solutions(solutions, benchmark_problem.search_space)
 
+"""
+import numpy as np
+from sklearn.tree import DecisionTreeRegressor, export_graphviz
+import graphviz
+#new bbo for visualization
+def pRef_from_BBO_all_viz(benchmark_problem, sample_size: int, max_trace: int) -> PRef:
+    
+    from mealpy.bio_based import BBO as MEALPY_BBO
+    from mealpy import IntegerVar, Problem
+    import numpy as np
+    from Core.FullSolution import FullSolution
+    from Core.EvaluatedFS import EvaluatedFS
+    from Core.PRef import PRef
+    
+    print(f"Running MEALPY BBO on {benchmark_problem.__class__.__name__}")
+    
+    # Setup integer bounds
+    dimension = len(benchmark_problem.search_space.cardinalities)
+    lb = tuple([0] * dimension)
+    ub = tuple([card - 1 for card in benchmark_problem.search_space.cardinalities])
+    bounds = IntegerVar(lb=lb, ub=ub, name="bbo_problem")
+    
+    # Fitness function wrapper
+    def fitness_func(solution):
+        discrete_solution = np.array(solution, dtype=int)
+        full_solution = FullSolution(discrete_solution)
+        return float(benchmark_problem.fitness_function(full_solution))
+    
+    problem_dict = {
+        "obj_func": fitness_func,
+        "bounds": bounds,
+        "minmax": "max",
+        "save_population": True, 
+        "log_to": None
+    }
 
+    pop_size = 50
+    
+    print(f"BBO parameters: pop_size={pop_size}")
+    
+    model = MEALPY_BBO.OriginalBBO(
+        epoch=get_problem_specific_epochs(benchmark_problem, max_trace, pop_size),
+        pop_size=pop_size,
+        p_m=0.01,
+        n_elites=2
+    )
+    
+    #model.solve(problem_dict, mode='single')
+    model.solve(problem_dict, mode='single')
+    
+    solutions = []
+    fitnesses = []
+    print(f"   Available history attributes: {dir(model.history)}")
+    
+    if hasattr(model.history, 'list_population') and model.history.list_population:
+        print(f"    Extracting from {len(model.history.list_population)} generations")
+        
+        for generation_idx, population in enumerate(model.history.list_population):
+            if len(solutions) >= max_trace:
+                break
+                
+            for agent in population:
+                if len(solutions) >= max_trace:
+                    break
+                    
+                try:
+                    discrete_solution = np.array(agent.solution, dtype=int)
+                    full_solution = FullSolution(discrete_solution)
+                    fitness = float(agent.target.fitness)
+                    solutions.append(EvaluatedFS(full_solution, fitness))
+                except Exception as e:
+                    print(f"    Error processing agent: {e}")
+                    continue
+    else:
+        print("    No list_population in history, using other history data")
+
+    solutions = solutions[:max_trace]
+    #modified here
+    X = np.array(solutions)
+    y = np.array(fitnesses)
+    feature_names = [f"x{i}" for i in range(X.shape[1])]
+
+    # Train decision tree surrogate
+    dt = DecisionTreeRegressor(max_depth=5, min_samples_leaf=20, random_state=42)
+    dt.fit(X, y)
+
+    # Export visualization using Graphviz
+    dot_data = export_graphviz(dt, out_file=None,
+                           feature_names=feature_names,
+                           filled=True, rounded=True, impurity=False)
+    graph = graphviz.Source(dot_data)
+    graph.render("bbo_decision_tree", format="pdf")
+
+    print(f"___Generated {len(solutions)} solutions from MEALPY BBO history")
+    
+    return PRef.from_evaluated_full_solutions(solutions, benchmark_problem.search_space)
+
+"""
 def pRef_from_CRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PRef:
     
     from mealpy.evolutionary_based import CRO as MEALPY_CRO
@@ -495,8 +592,8 @@ def pRef_from_CRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         n_trials=5
     )
     
-    #model.solve(problem_dict, mode='single')
-    model.solve(problem_dict, mode='swarm')
+    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -574,8 +671,8 @@ def pRef_from_ACO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         zeta=1.0
     )
     
-    #model.solve(problem_dict, mode='single')
-    model.solve(problem_dict, mode='swarm')
+    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='swarm')
     
     solutions = []
     
@@ -652,8 +749,8 @@ def pRef_from_BRO_all(benchmark_problem, sample_size: int, max_trace: int) -> PR
         max_diff=0.1
     )
     
-    #model.solve(problem_dict, mode='single')
-    model.solve(problem_dict, mode='swarm')
+    model.solve(problem_dict, mode='single')
+    #model.solve(problem_dict, mode='swarm')
     
     solutions = []
     

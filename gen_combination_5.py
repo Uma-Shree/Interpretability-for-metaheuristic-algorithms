@@ -61,240 +61,245 @@ def run_with_timeout(func, args, kwargs, timeout_seconds):
     
     raise TimeoutError("No result returned")
 
+repeat = 5
 def generate_all_ps_combinations():
     
-    problems = get_problems_with_names()
+    for iter in range(1, repeat + 1):
+        problems = get_problems_with_names()
+        print("iteration : ", iter)
+        # PHASE 2 
+        #["PSO", "BBO", "CRO", "BRO", "AOA", "ABC"]
+        #algorithms = ["CRO", "WOA", "HHO", "SSA", "SMA", "AOA", "SCA", "BRO", "PSO", "BBO", ]
+        algorithms = ["BBO", "ACO",  "BRO", "CRO", "PSO"] # "AOA", "SSO"]
+        #algorithms = ["BRO", "CRO", "AOA", "SSO"]
+        
+        depths = [3, 4, 5]
+        metrics_combinations = [ 
+            "simplicity variance",
+            "simplicity variance estimated_atomicity",
+        ]
     
-    # PHASE 2 
-    #["PSO", "BBO", "CRO", "BRO", "AOA", "ABC"]
-    #algorithms = ["CRO", "WOA", "HHO", "SSA", "SMA", "AOA", "SCA", "BRO", "PSO", "BBO", ]
-    algorithms = ["CRO"] #[ "BBO", "ACO",  "BRO", "CRO", "PSO"] # "AOA", "SSO"]
-    #algorithms = ["BRO", "CRO", "AOA", "SSO"]
-    
-    depths = [3, 4, 5]
-    metrics_combinations = [
-        "simplicity variance", 
-        "simplicity variance estimated_atomicity",
-    ]
-   
-    
-    # Full parameters to match dataset scale used by notebooks
-    sample_size = 10000
-    ps_budget = 5000
-    ps_population = 100
-    avoid_ancestors = False
-    
-    # TIMEOUT SETTINGS
-    MAX_TIME_PER_COMBINATION = 600  # Allow up to 10 minutes per combination on Windows
-    
-    # Setup output directory
-    destination_folder = get_compare_own_data_folder()
-    utils.make_directory(destination_folder)
-    
-    # Calculate total combinations
-    total_combinations = (
-        len(problems) * 
-        len(algorithms) * 
-        len(depths) * 
-        len(metrics_combinations)
-    )
-    
-    print("=" * 80)
-    print("COMPLETE PS TREE GENERATION - WINDOWS SAFE MODE WITH TIMEOUTS")
-    print("=" * 80)
-    print(f"Problems: {list(problems.keys())}")
-    print(f"Algorithms: {algorithms}")
-    print(f"Depths: {depths}")
-    print(f"Metrics: {metrics_combinations}")
-    print(f"Sample size: {sample_size}")
-    print(f"PS budget: {ps_budget}")
-    print(f"PS population: {ps_population}")
-    print(f"Timeout per combination: {MAX_TIME_PER_COMBINATION} seconds")
-    print(f"Total combinations: {total_combinations}")
-    print(f"Output folder: {destination_folder}")
-    print("=" * 80)
-    
-    # Counters
-    current_combination = 0
-    successful_generations = 0
-    failed_generations = 0
-    timeout_failures = 0
-    
-    # Generate all combinations with timeout protection
-    for problem_name, problem in problems.items():
-        for algorithm in algorithms:
-            for depth in depths:
-                for metrics in metrics_combinations:
-                    current_combination += 1
-                    start_time = time.time()
-                    
-                    print(f"\n [{current_combination}/{total_combinations}] Processing:")
-                    print(f"   Problem: {problem_name}")
-                    print(f"   Algorithm: {algorithm}")
-                    print(f"   Depth: {depth}")
-                    print(f"   Metrics: {metrics}")
-                    print(f"   Started at: {time.strftime('%H:%M:%S')}")
-                    
-                    # Tree settings
-                    tree_settings = [{
-                        "kind": "ps",
-                        "ps_budget": ps_budget,
-                        "ps_population": ps_population,
-                        "depths": [depth],
-                        "avoid_ancestors": avoid_ancestors,
-                        "metrics": metrics
-                    }]
-                    
-                    try:
-                        """
-                        # Generate with timeout protection using threading
-                        datapoint = run_with_timeout(
-                            get_datapoint_for_instance,
-                            args=(),
-                            kwargs={
-                                'problem_name': problem_name,
-                                'problem': problem,
-                                'tree_settings_list': tree_settings,
-                                'sample_size': sample_size,
-                                'pRef_method': algorithm,
-                                'crash_on_error': False,
-                                'seed': random.randint(0, 2**32 - 1)
-                            },
-                            timeout_seconds=MAX_TIME_PER_COMBINATION
-                        )
-                        """
+        
+        # Full parameters to match dataset scale used by notebooks
+        sample_size = 10000
+        ps_budget = 5000
+        ps_population = 100
+        avoid_ancestors = False
+        
+        # TIMEOUT SETTINGS
+        MAX_TIME_PER_COMBINATION = 600  # Allow up to 10 minutes per combination on Windows
+        
+        # Setup output directory
+        destination_folder = get_compare_own_data_folder()
+        utils.make_directory(destination_folder)
+        
+        # Calculate total combinations
+        total_combinations = (
+            len(problems) * 
+            len(algorithms) * 
+            len(depths) * 
+            len(metrics_combinations)
+        )
+        
+        
 
+        print("=" * 80)
+        print("COMPLETE PS TREE GENERATION - WINDOWS SAFE MODE WITH TIMEOUTS")
+        print("=" * 80)
+        print(f"Problems: {list(problems.keys())}")
+        print(f"Algorithms: {algorithms}")
+        print(f"Depths: {depths}")
+        print(f"Metrics: {metrics_combinations}")
+        print(f"Sample size: {sample_size}")
+        print(f"PS budget: {ps_budget}")
+        print(f"PS population: {ps_population}")
+        print(f"Timeout per combination: {MAX_TIME_PER_COMBINATION} seconds")
+        print(f"Total combinations: {total_combinations}")
+        print(f"Output folder: {destination_folder}")
+        print("=" * 80)
+        
+        # Counters
+        current_combination = 0
+        successful_generations = 0
+        failed_generations = 0
+        timeout_failures = 0
+        
+
+        # Generate all combinations with timeout protection
+        for problem_name, problem in problems.items():
+            for algorithm in algorithms:
+                for depth in depths:
+                    for metrics in metrics_combinations:
+                        current_combination += 1
+                        start_time = time.time()
                         
-                        datapoint = get_datapoint_for_instance(
-                            problem_name=problem_name,
-                            problem=problem,
-                            tree_settings_list=tree_settings,
-                            sample_size=sample_size,
-                            pRef_method=algorithm,
-                            crash_on_error=False,
-                            seed=random.randint(0, 2**32 - 1)
-                        )
-
+                        print(f"\n [{current_combination}/{total_combinations}] Processing:")
+                        print(f"   Problem: {problem_name}")
+                        print(f"   Algorithm: {algorithm}")
+                        print(f"   Depth: {depth}")
+                        print(f"   Metrics: {metrics}")
+                        print(f"   Started at: {time.strftime('%H:%M:%S')}")
                         
-                        # Calculate runtime
-                        runtime = time.time() - start_time
-                        runtime = round(runtime, 3)
+                        # Tree settings
+                        tree_settings = [{
+                            "kind": "ps",
+                            "ps_budget": ps_budget,
+                            "ps_population": ps_population,
+                            "depths": [depth],
+                            "avoid_ancestors": avoid_ancestors,
+                            "metrics": metrics
+                        }]
+                        
+                        try:
+                            """
+                            # Generate with timeout protection using threading
+                            datapoint = run_with_timeout(
+                                get_datapoint_for_instance,
+                                args=(),
+                                kwargs={
+                                    'problem_name': problem_name,
+                                    'problem': problem,
+                                    'tree_settings_list': tree_settings,
+                                    'sample_size': sample_size,
+                                    'pRef_method': algorithm,
+                                    'crash_on_error': False,
+                                    'seed': random.randint(0, 2**32 - 1)
+                                },
+                                timeout_seconds=MAX_TIME_PER_COMBINATION
+                            )
+                            """
 
-                        # ✅ Add runtime info directly inside JSON output
-                        if isinstance(datapoint, dict):
-                            datapoint["runtime_seconds"] = runtime
-                            datapoint["problem"] = problem_name
-                            datapoint["algorithm"] = algorithm
-                            datapoint["depth"] = depth
-                            datapoint["metrics_used"] = metrics
-                        else:
-                            datapoint = {
-                                "data": datapoint,
-                                "runtime_seconds": runtime,
-                                "problem": problem_name,
-                                "algorithm": algorithm,
-                                "depth": depth,
-                                "metrics_used": metrics
+                            
+                            datapoint = get_datapoint_for_instance(
+                                problem_name=problem_name,
+                                problem=problem,
+                                tree_settings_list=tree_settings,
+                                sample_size=sample_size,
+                                pRef_method=algorithm,
+                                crash_on_error=False,
+                                seed=random.randint(0, 2**32 - 1)
+                            )
+
+                            
+                            # Calculate runtime
+                            runtime = time.time() - start_time
+                            runtime = round(runtime, 3)
+
+                            # ✅ Add runtime info directly inside JSON output
+                            if isinstance(datapoint, dict):
+                                datapoint["runtime_seconds"] = runtime
+                                datapoint["problem"] = problem_name
+                                datapoint["algorithm"] = algorithm
+                                datapoint["depth"] = depth
+                                datapoint["metrics_used"] = metrics
+                            else:
+                                datapoint = {
+                                    "data": datapoint,
+                                    "runtime_seconds": runtime,
+                                    "problem": problem_name,
+                                    "algorithm": algorithm,
+                                    "depth": depth,
+                                    "metrics_used": metrics
+                                }
+
+                            # Save result immediately
+                            safe_metrics = metrics.replace(" ", "_")
+                            timestamp = utils.get_formatted_timestamp()
+                            filename = f"output_{problem_name}_{algorithm}_{depth}_{safe_metrics}_{timestamp}.json"
+                            filepath = os.path.join(destination_folder, filename)
+                            
+                            with open(filepath, "w") as file:
+                                json.dump([datapoint], file, indent=4)
+                            
+                            successful_generations += 1
+                            print(f"    SUCCESS: {filename}")
+                            print(f"    Runtime: {runtime:.1f} seconds")
+                            
+                            # Display metrics if available
+                            if "results_by_tree" in datapoint and len(datapoint["results_by_tree"]) > 0:
+                                results = datapoint["results_by_tree"][0].get("results", {})
+                                if isinstance(results, dict) and "mae" in results:
+                                    mae = results.get("mae", "N/A")
+                                    mse = results.get("mse", "N/A") 
+                                    r2 = results.get("r2", "N/A")
+                                    print(f"      📊 MAE: {mae}, MSE: {mse}, R2: {r2}")
+                        
+                        except TimeoutError as te:
+                            timeout_failures += 1
+                            failed_generations += 1
+                            runtime = time.time() - start_time
+                            print(f"   ⏰ TIMEOUT: {runtime:.1f} seconds (max: {MAX_TIME_PER_COMBINATION})")
+                            
+                            # Save timeout error
+                            safe_metrics = metrics.replace(" ", "_")
+                            error_filename = f"TIMEOUT_{problem_name}_{algorithm}_{depth}_{safe_metrics}.json"
+                            error_filepath = os.path.join(destination_folder, error_filename)
+                            
+                            error_info = {
+                                "error": str(te),
+                                "max_timeout": MAX_TIME_PER_COMBINATION,
+                                "runtime": runtime,
+                                "combination": {
+                                    "problem": problem_name,
+                                    "algorithm": algorithm,
+                                    "depth": depth,
+                                    "metrics": metrics
+                                },
+                                "tree_settings": tree_settings
                             }
-
-                        # Save result immediately
-                        safe_metrics = metrics.replace(" ", "_")
-                        timestamp = utils.get_formatted_timestamp()
-                        filename = f"output_{problem_name}_{algorithm}_{depth}_{safe_metrics}_{timestamp}.json"
-                        filepath = os.path.join(destination_folder, filename)
+                            
+                            with open(error_filepath, "w") as file:
+                                json.dump(error_info, file, indent=4)
+                            
+                            print(f"      💾 Timeout info saved: {error_filename}")
                         
-                        with open(filepath, "w") as file:
-                            json.dump([datapoint], file, indent=4)
+                        except Exception as e:
+                            failed_generations += 1
+                            runtime = time.time() - start_time
+                            print(f"  FAILED: {str(e)} (after {runtime:.1f} seconds)")
+                            
+                            # Save error information
+                            safe_metrics = metrics.replace(" ", "_")
+                            error_filename = f"ERROR_{problem_name}_{algorithm}_{depth}_{safe_metrics}.json"
+                            error_filepath = os.path.join(destination_folder, error_filename)
+                            
+                            error_info = {
+                                "error": str(e),
+                                "runtime": runtime,
+                                "combination": {
+                                    "problem": problem_name,
+                                    "algorithm": algorithm,
+                                    "depth": depth,
+                                    "metrics": metrics
+                                },
+                                "tree_settings": tree_settings
+                            }
+                            
+                            with open(error_filepath, "w") as file:
+                                json.dump(error_info, file, indent=4)
+                            
+                            print(f" Error saved: {error_filename}")
                         
-                        successful_generations += 1
-                        print(f"    SUCCESS: {filename}")
-                        print(f"    Runtime: {runtime:.1f} seconds")
-                        
-                        # Display metrics if available
-                        if "results_by_tree" in datapoint and len(datapoint["results_by_tree"]) > 0:
-                            results = datapoint["results_by_tree"][0].get("results", {})
-                            if isinstance(results, dict) and "mae" in results:
-                                mae = results.get("mae", "N/A")
-                                mse = results.get("mse", "N/A") 
-                                r2 = results.get("r2", "N/A")
-                                print(f"      📊 MAE: {mae}, MSE: {mse}, R2: {r2}")
-                    
-                    except TimeoutError as te:
-                        timeout_failures += 1
-                        failed_generations += 1
-                        runtime = time.time() - start_time
-                        print(f"   ⏰ TIMEOUT: {runtime:.1f} seconds (max: {MAX_TIME_PER_COMBINATION})")
-                        
-                        # Save timeout error
-                        safe_metrics = metrics.replace(" ", "_")
-                        error_filename = f"TIMEOUT_{problem_name}_{algorithm}_{depth}_{safe_metrics}.json"
-                        error_filepath = os.path.join(destination_folder, error_filename)
-                        
-                        error_info = {
-                            "error": str(te),
-                            "max_timeout": MAX_TIME_PER_COMBINATION,
-                            "runtime": runtime,
-                            "combination": {
-                                "problem": problem_name,
-                                "algorithm": algorithm,
-                                "depth": depth,
-                                "metrics": metrics
-                            },
-                            "tree_settings": tree_settings
-                        }
-                        
-                        with open(error_filepath, "w") as file:
-                            json.dump(error_info, file, indent=4)
-                        
-                        print(f"      💾 Timeout info saved: {error_filename}")
-                    
-                    except Exception as e:
-                        failed_generations += 1
-                        runtime = time.time() - start_time
-                        print(f"  FAILED: {str(e)} (after {runtime:.1f} seconds)")
-                        
-                        # Save error information
-                        safe_metrics = metrics.replace(" ", "_")
-                        error_filename = f"ERROR_{problem_name}_{algorithm}_{depth}_{safe_metrics}.json"
-                        error_filepath = os.path.join(destination_folder, error_filename)
-                        
-                        error_info = {
-                            "error": str(e),
-                            "runtime": runtime,
-                            "combination": {
-                                "problem": problem_name,
-                                "algorithm": algorithm,
-                                "depth": depth,
-                                "metrics": metrics
-                            },
-                            "tree_settings": tree_settings
-                        }
-                        
-                        with open(error_filepath, "w") as file:
-                            json.dump(error_info, file, indent=4)
-                        
-                        print(f" Error saved: {error_filename}")
-                    
-                    # Progress update
-                    if current_combination % 2 == 0:  # Every 2 combinations
-                        print(f"\n PROGRESS UPDATE:")
-                        print(f"   Completed: {current_combination}/{total_combinations}")
-                        print(f"   Success rate: {(successful_generations/current_combination)*100:.1f}%")
-                        print(f"   Timeouts: {timeout_failures}")
-    
-    # Final summary
-    print("\n" + "=" * 80)
-    print("GENERATION COMPLETE - FINAL SUMMARY")
-    print("=" * 80)
-    print(f"Total combinations processed: {current_combination}")
-    print(f"Successful generations: {successful_generations}")
-    print(f"Failed generations: {failed_generations}")
-    print(f"Timeout failures: {timeout_failures}")
-    if current_combination > 0:
-        success_rate = (successful_generations / current_combination) * 100
-        print(f"Success rate: {success_rate:.1f}%")
-    print(f"Output directory: {destination_folder}")
-    print("=" * 80)
+                        # Progress update
+                        if current_combination % 2 == 0:  # Every 2 combinations
+                            print(f"\n PROGRESS UPDATE:")
+                            print(f"   Completed: {current_combination}/{total_combinations}")
+                            print(f"   Success rate: {(successful_generations/current_combination)*100:.1f}%")
+                            print(f"   Timeouts: {timeout_failures}")
+        
+        # Final summary
+        print("\n" + "=" * 80)
+        print("GENERATION COMPLETE - FINAL SUMMARY")
+        print("=" * 80)
+        print(f"Total combinations processed: {current_combination}")
+        print(f"Successful generations: {successful_generations}")
+        print(f"Failed generations: {failed_generations}")
+        print(f"Timeout failures: {timeout_failures}")
+        if current_combination > 0:
+            success_rate = (successful_generations / current_combination) * 100
+            print(f"Success rate: {success_rate:.1f}%")
+        print(f"Output directory: {destination_folder}")
+        print("=" * 80)
 
 def generate_reduced_test_set():
     """Quick test with minimal parameters"""
